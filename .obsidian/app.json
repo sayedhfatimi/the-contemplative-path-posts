@@ -1,0 +1,7 @@
+{
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    ".git/",
+    ".github/"
+  ]
+}
