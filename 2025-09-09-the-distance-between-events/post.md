@@ -1,7 +1,7 @@
 ---
 title: The Distance Between Events
 pubDate: 2025-09-09T17:16:40Z
-updatedDate: 2025-10-04T13:58:50Z
+updatedDate: 2025-10-10T16:21:28Z
 excerpt: >-
   If time is not a river or a dimension but only the distance between events, what then becomes of
   us? Is a life measured by years, or by the density of change it contains? This essay traces the
@@ -52,23 +52,19 @@ And so the question returns. Not as an abstraction, not as a puzzle for speciali
 
 Physics tells us so. It writes time beside space, as though the two were kin. In the line element we are given,
 
-
-
 $$
 ds^{2} = -\,dt^{2} + dx^{2} + dy^{2} + dz^{2}
 $$
 
-
-
-a simple expression that claims to capture the very shape of reality. And yet, how strange that time enters so quietly, so unexamined. Why do we not pause to ask what it means to speak of a “distance” in time?
+a simple expression that claims to capture the very shape of reality. And yet, how strange that time enters so quietly, so unexamined. Why do we not pause to ask what it means to speak of a "distance" in time?
 
 Is it truly the case that time is another dimension, like length or width or height? Or is it simply that by treating it so, our equations become elegant? Does this elegance reflect nature itself, or only our desire for symmetry?
 
-The minus sign whispers difference, but is it enough? In what sense can we place an instant on the same footing as a location? When I walk across a room, the distance I cover is real—extension exists between one point and another. But when I wait in silence, what exactly stretches between one moment and the next? Is there anything “there” at all, or do we call it “time” because we cannot bear the emptiness between events?
+The minus sign whispers difference, but is it enough? In what sense can we place an instant on the same footing as a location? When I walk across a room, the distance I cover is real—extension exists between one point and another. But when I wait in silence, what exactly stretches between one moment and the next? Is there anything "there" at all, or do we call it "time" because we cannot bear the emptiness between events?
 
 We call it spacetime, as though the two were fused into one cloth. But what if that cloth is only the projection of our minds? What if the unity is a fiction born of mathematical convenience? Would the universe itself look any different if we refused to grant time the status of a dimension?
 
-Perhaps time was never a sibling of space, but only its reflection in a different mirror. Perhaps what we call the “geometry of time” is not geometry at all, but the ordering of change dressed up as distance. But if so, why has physics been so successful in treating it otherwise? Is that success evidence of truth, or only of utility?
+Perhaps time was never a sibling of space, but only its reflection in a different mirror. Perhaps what we call the "geometry of time" is not geometry at all, but the ordering of change dressed up as distance. But if so, why has physics been so successful in treating it otherwise? Is that success evidence of truth, or only of utility?
 
 And if time is not a dimension, then what is it? A rhythm? A sequence? A distance between changes? Or perhaps nothing at all—only a shadow cast by motion, mistaken for substance.
 
@@ -88,13 +84,13 @@ And if that is all it is, then is physics not built upon a ghost—an elegant, i
 
 Some physicists have long entertained the thought: what if an antiparticle is nothing more than a particle moving backwards in time? Feynman sketched it on paper as if it were no more mysterious than a change of sign, a reversal in the axis of a diagram. But if this interpretation holds truth beyond metaphor, what does it mean to speak of such a reversal?
 
-What is “backwards” if time itself is not fundamental? If time is only the measure of distance between changes, then to move backwards through it would mean what—reversing the order of states, unravelling the distance already traversed? Is antimatter truly retracing steps across a dimension, or is it simply tracing a mirror-pattern of change that we mistake for reversal?
+What is "backwards" if time itself is not fundamental? If time is only the measure of distance between changes, then to move backwards through it would mean what—reversing the order of states, unravelling the distance already traversed? Is antimatter truly retracing steps across a dimension, or is it simply tracing a mirror-pattern of change that we mistake for reversal?
 
-And if matter moves “forwards” and antimatter “backwards,” who is to say which direction is the original? Might both be illusions born from our perspective, the symmetry of two currents in a river where “upstream” and “downstream” are words of the observer, not qualities of the water itself?
+And if matter moves "forwards" and antimatter "backwards," who is to say which direction is the original? Might both be illusions born from our perspective, the symmetry of two currents in a river where "upstream" and "downstream" are words of the observer, not qualities of the water itself?
 
 CPT symmetry promises invariance when we flip charge, flip space, flip time. But if time is not a real dimension, then what are we flipping? Perhaps not time itself, but the order of event-distance, the sequence of changes. Could it be that antimatter does not inhabit a different kind of time, but only lives out the same distances in reverse correlation?
 
-And if so, is the true mystery not that antimatter moves backwards, but that we ever believed “forwards” had meaning at all?
+And if so, is the true mystery not that antimatter moves backwards, but that we ever believed "forwards" had meaning at all?
 
 ## Can We Rebuild Physics Without Time?
 
@@ -102,17 +98,13 @@ What would remain of physics if we stripped away time altogether? Could the edif
 
 Already there are whispers that it might be possible. The Wheeler–DeWitt equation of quantum gravity presents us with an unsettling clue:
 
-
-
 $$
 \hat{H} \Psi = 0
 $$
 
-
-
 No $t$. No unfolding. Only a condition of balance, as though the universe at its most fundamental level were not a drama played across a stage of moments, but a frozen equation, complete and eternal. What does it mean if the deepest laws of nature do not describe a becoming, but only a being?
 
-Would motion itself still make sense without time? If we no longer had the comfort of “before” and “after,” how would we speak of an object crossing a room, of a star collapsing, of a child growing? Or would all these images collapse into correlations—this position tied to that, this state bound to another—without any invisible thread running through them to mark progression?
+Would motion itself still make sense without time? If we no longer had the comfort of "before" and "after," how would we speak of an object crossing a room, of a star collapsing, of a child growing? Or would all these images collapse into correlations—this position tied to that, this state bound to another—without any invisible thread running through them to mark progression?
 
 Our mathematics seems to depend on time as an axis. The derivative $\frac{dx}{dt}$ assumes it as a ground, a denominator that steadies the ratios of change. Without it, what remains? Could we rewrite physics entirely in terms of comparisons—distance against distance, oscillation against oscillation, rhythm against rhythm? Would equations then cease to describe trajectories and instead describe relations, a lattice of links where change is always relative, never absolute?
 
@@ -128,25 +120,25 @@ If time is not a dimension, not a flowing river, not even a hidden axis in the e
 
 When one state gives way to another, when a particle decays, when a leaf falls, when a thought arises—something separates these happenings. Is that separation what we call time? Is time not an entity in itself, but the very spacing between change and change, the invisible thread that marks difference?
 
-But what kind of “distance” is this? When we measure the stretch of a road, there is something extended between its ends. But when we measure the stretch between events, what lies between them? Is it a real interval, or simply our way of naming the fact that they are not simultaneous? Is time nothing but the recognition of “not at once”?
+But what kind of "distance" is this? When we measure the stretch of a road, there is something extended between its ends. But when we measure the stretch between events, what lies between them? Is it a real interval, or simply our way of naming the fact that they are not simultaneous? Is time nothing but the recognition of "not at once"?
 
-Consider two moments of stillness: a pendulum at rest, a heart between beats, the silence that lingers before speech. Does time pass there at all, or does it only come into being once something shifts, once a state is no longer what it was? Could it be that what we name “the passage of time” is nothing other than the recognition of change, dressed in the language of continuity?
+Consider two moments of stillness: a pendulum at rest, a heart between beats, the silence that lingers before speech. Does time pass there at all, or does it only come into being once something shifts, once a state is no longer what it was? Could it be that what we name "the passage of time" is nothing other than the recognition of change, dressed in the language of continuity?
 
-And what of memory? Is the sense of time’s passing nothing more than the accumulation of remembered changes, a layering of difference upon difference? Without memory, would the distance between events collapse, leaving us suspended in a present without depth? Or is memory itself the very act of measuring time, the creation of distance where otherwise there would only be immediacy?
+And what of memory? Is the sense of time's passing nothing more than the accumulation of remembered changes, a layering of difference upon difference? Without memory, would the distance between events collapse, leaving us suspended in a present without depth? Or is memory itself the very act of measuring time, the creation of distance where otherwise there would only be immediacy?
 
 If so, then time is not something that flows around us, but something that arises within the fabric of events themselves. Not a background, but a measure. Not a substance, but a distance. But if that is so, why does it feel so real to us? Why do we live as though it carries us forward, rather than as though we ourselves mark its measure?
 
 And if time is only distance between events, what happens to the idea of eternity? Does an infinite stretch of time mean anything if nothing changes within it? Would an unchanging eternity be indistinguishable from no time at all? And if so, could it be that eternity is not endless time, but the absence of time entirely?
 
-What then of the finite? Is a life “long” because of the years it counts, or because of the density of change it contains? Do we measure our days by the clocks on our walls, or by the distances between the events that mattered? And if so, is it possible that time has always been less about what the universe is, and more about what we choose to notice?
+What then of the finite? Is a life "long" because of the years it counts, or because of the density of change it contains? Do we measure our days by the clocks on our walls, or by the distances between the events that mattered? And if so, is it possible that time has always been less about what the universe is, and more about what we choose to notice?
 
 ## What Does Distance in Time Mean?
 
-If time is distance between events, what kind of distance is it? When I measure the span of a road, there is extension laid out between its ends, something that can be walked, counted, occupied. But when I measure the span between moments, what is it that lies between? Is there anything there at all, or is the “between” only a name for absence?
+If time is distance between events, what kind of distance is it? When I measure the span of a road, there is extension laid out between its ends, something that can be walked, counted, occupied. But when I measure the span between moments, what is it that lies between? Is there anything there at all, or is the "between" only a name for absence?
 
 Perhaps distance in space is presence, while distance in time is absence. But absence of what? Of simultaneity, of coincidence, of being at once. Could it be that time is nothing more than the refusal of events to occur together?
 
-And yet we experience it differently. A kilometer on a road and an hour on a clock do not feel the same. Why should one distance weigh heavy on us, while the other simply stretches in extension? Why do we speak of time as “passing,” of hours as “lost” or “gained,” when we do not say the same of length? Does time carry a burden that space does not?
+And yet we experience it differently. A kilometer on a road and an hour on a clock do not feel the same. Why should one distance weigh heavy on us, while the other simply stretches in extension? Why do we speak of time as "passing," of hours as "lost" or "gained," when we do not say the same of length? Does time carry a burden that space does not?
 
 Physics writes time into the line element as though it were simply another coordinate, indistinguishable from space but for a sign. But is that minus sign only a mathematical device, or does it encode something deeper—that distance in time is not extension at all, but causality? That to say two events are separated by time is to say they are bound by the possibility of influence, by an arrow of cause that cannot be reversed?
 

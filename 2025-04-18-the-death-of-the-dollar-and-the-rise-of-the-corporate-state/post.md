@@ -1,9 +1,9 @@
 ---
 title: The Death of the Dollar and the Rise of the Corporate State
 pubDate: 2025-04-18T15:07:56Z
-updatedDate: 2025-09-22T12:15:35Z
+updatedDate: 2025-10-10T16:21:29Z
 excerpt: >-
-  The dollar's decline is a strategic shift rather than mismanagement, marking a transition from a
+  "The dollar's decline is a strategic shift rather than mismanagement, marking a transition from a"
   gold-backed system to one lacking intrinsic value. As this occurs, corporate power rises to fill
   the vacuum, offering digital currencies and alternative systems. This leads to a new era of
   governance where citizens become consumers in a commodified democracy, believing they chose their
@@ -43,9 +43,9 @@ canonical: https://sayedhfatimi.blog/2025/04/18/the-death-of-the-dollar-and-the-
 
 ## The Intentional Decline
 
-The fall of the dollar isn’t a failure. It’s an event. A calculated phase shift — not the result of mismanagement, but the result of quiet strategic surrender.
+The fall of the dollar isn't a failure. It's an event. A calculated phase shift — not the result of mismanagement, but the result of quiet strategic surrender.
 
-This is not a system spiraling out of control; it is a system evolving toward a new form of control. The U.S. didn’t “accidentally” lose track of its gold reserves. It didn’t forget how to regulate its own currency. It didn’t simply get outpaced by innovation. These were choices. Precise, deliberate, and cloaked in the language of inevitability. Choices made not in the name of the people, but in the name of preservation — not of democracy, but of dominion.
+This is not a system spiraling out of control; it is a system evolving toward a new form of control. The U.S. didn't "accidentally" lose track of its gold reserves. It didn't forget how to regulate its own currency. It didn't simply get outpaced by innovation. These were choices. Precise, deliberate, and cloaked in the language of inevitability. Choices made not in the name of the people, but in the name of preservation — not of democracy, but of dominion.
 
 And so, the dollar begins to unravel — not with a bang, but with a nod. A subtle acknowledgment that the game has changed. That fiat, as we knew it, had run its course. The decision was made not in Congress, but in conference rooms. Not voted upon, but simulated, modeled, predicted. The world will not witness a sudden collapse. It will witness a controlled demolition.
 
@@ -67,7 +67,7 @@ And so, as governments scramble to respond, corporations wait patiently with ans
 
 Gold and Bitcoin have emerged as the twin altars of the new monetary religion. Not because they are morally superior, but because they are mathematically inevitable. Scarcity cannot be printed. Trust cannot be decreed. And so, value retreats to that which cannot lie.
 
-But here’s the twist: these assets are not in the hands of the people. They are in vaults, in cold wallets, in institutional portfolios. The same corporations that rode the final wave of the dollar’s dominance are now positioned to define what comes next. When the new standard arrives — pegged to something “real,” something “finite” — it will be the corporations who hold the keys, not the states.
+But here's the twist: these assets are not in the hands of the people. They are in vaults, in cold wallets, in institutional portfolios. The same corporations that rode the final wave of the dollar's dominance are now positioned to define what comes next. When the new standard arrives — pegged to something "real," something "finite" — it will be the corporations who hold the keys, not the states.
 
 And the governments? They will not fight it. They will endorse it. They will be invited to the table — not as equals, but as guests. And they will accept. Because not accepting would mean exclusion. Irrelevance.
 
@@ -83,7 +83,7 @@ The money will be programmable. Conditional. Revocable. Wrapped in layers of com
 
 And the people will cheer. Because the instability was unbearable. Because order feels like safety. Because the alternative is an abyss, and the abyss has no refund policy.
 
-In that moment, Orwell’s shadow darkens. The boot doesn’t stomp. It whispers. It recommends. It nudges. The telescreen no longer watches — it listens. And it learns. The Ministry of Truth becomes a Terms of Service agreement. And we scroll to the bottom, click “Accept,” and breathe a sigh of relief.
+In that moment, Orwell's shadow darkens. The boot doesn't stomp. It whispers. It recommends. It nudges. The telescreen no longer watches — it listens. And it learns. The Ministry of Truth becomes a Terms of Service agreement. And we scroll to the bottom, click "Accept," and breathe a sigh of relief.
 
 Not because we were fooled.
 

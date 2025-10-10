@@ -1,7 +1,7 @@
 ---
 title: 'Written in Our Code: Aging, DNA, and the Quiet Countdown'
 pubDate: 2025-08-18T17:34:58Z
-updatedDate: 2025-09-22T12:07:06Z
+updatedDate: 2025-10-10T16:21:28Z
 excerpt: >-
   Aging is not just skin deep—it is written into our very DNA. As telomeres shorten and proteins
   lose their shape, the body’s essential functions slowly unravel. Death is not an intruder but a

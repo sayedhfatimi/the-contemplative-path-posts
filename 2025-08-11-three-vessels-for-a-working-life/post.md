@@ -1,7 +1,7 @@
 ---
 title: Three Vessels for a Working Life
 pubDate: 2025-08-11T06:20:13Z
-updatedDate: 2025-09-22T12:08:41Z
+updatedDate: 2025-10-10T16:21:28Z
 excerpt: >-
   Most people are taught to work for money, but not to make it work for them. For new investors with
   modest means, building wealth is less about chasing quick wins and more about choosing the right
@@ -45,25 +45,25 @@ For the new investor starting from a modest wage, a thin safety net, and little 
 
 Here, a professional manager chooses what to buy and sell for you, aiming to beat the market. For a beginner, this can feel reassuring — someone else is steering the ship.
 
-**When to use it:** If you want a more “hands-off” option but are willing to pay higher fees for the chance of better-than-average returns.
+**When to use it:** If you want a more "hands-off" option but are willing to pay higher fees for the chance of better-than-average returns.
 
-**The trap:** The Narrative Trap — believing the captain is always right. Even skilled managers can have bad years or get caught in market downturns. Many don’t outperform cheaper, simpler options over time. If you use this vessel, look for low-cost funds with a strong long-term track record — and don’t put all your money here.
+**The trap:** The Narrative Trap — believing the captain is always right. Even skilled managers can have bad years or get caught in market downturns. Many don't outperform cheaper, simpler options over time. If you use this vessel, look for low-cost funds with a strong long-term track record — and don't put all your money here.
 
 ## 2. The Money Market Fund — The Safe Harbor
 
-This is where you keep money you might need soon — your emergency savings, your “just in case” fund. It’s low risk, stable, and easy to access.
+This is where you keep money you might need soon — your emergency savings, your "just in case" fund. It's low risk, stable, and easy to access.
 
 **When to use it:** To protect short-term money from big market swings.
 
-**The trap:** The Comfort Trap — thinking that because your money feels safe, it’s growing enough. Inflation quietly eats away at your buying power over time. Keep only what you truly need here, then send the rest out to work in investments that can grow.
+**The trap:** The Comfort Trap — thinking that because your money feels safe, it's growing enough. Inflation quietly eats away at your buying power over time. Keep only what you truly need here, then send the rest out to work in investments that can grow.
 
-## 3. The Index Fund — The Steady Current (and the ‘Always Up’ Tide)
+## 3. The Index Fund — The Steady Current (and the 'Always Up' Tide)
 
-This fund simply follows the market, owning a little piece of many companies. It doesn’t try to pick winners or time the tides — it moves with the whole ocean.
+This fund simply follows the market, owning a little piece of many companies. It doesn't try to pick winners or time the tides — it moves with the whole ocean.
 
-If you invest in something like the S&P 500, you’re buying into an index that is designed to trend upward over time. Here’s why: underperforming companies get removed and replaced with stronger ones. It’s like a ship’s crew that’s constantly swapping out weak rowers for stronger ones — the long-term direction is forward.
+If you invest in something like the S&P 500, you're buying into an index that is designed to trend upward over time. Here's why: underperforming companies get removed and replaced with stronger ones. It's like a ship's crew that's constantly swapping out weak rowers for stronger ones — the long-term direction is forward.
 
-This doesn’t mean the ride is smooth. In the short term, the market can still drop sharply — sometimes by 20% or more in a bad year. But over decades, these “always up” indices have recovered from every crash, rewarding those who stayed the course.
+This doesn't mean the ride is smooth. In the short term, the market can still drop sharply — sometimes by 20% or more in a bad year. But over decades, these "always up" indices have recovered from every crash, rewarding those who stayed the course.
 
 **When to use it:** For long-term investing — five years or more — where you want steady, low-cost growth, and you can stomach short-term drops.
 
@@ -71,9 +71,9 @@ This doesn’t mean the ride is smooth. In the short term, the market can still 
 
 ## Final Guidance
 
-You don’t need a big lump sum to start. Even £10–£50 a month builds up when you invest consistently. Think of it like planting seeds — the earlier you start, the more time they have to grow.
+You don't need a big lump sum to start. Even £10–£50 a month builds up when you invest consistently. Think of it like planting seeds — the earlier you start, the more time they have to grow.
 
-Your goal is not to chase quick riches. It’s to slowly and steadily build a portfolio that will serve you years from now. By understanding each vessel — and avoiding its trap — you give yourself a far better chance of reaching your destination, no matter how small your starting point.
+Your goal is not to chase quick riches. It's to slowly and steadily build a portfolio that will serve you years from now. By understanding each vessel — and avoiding its trap — you give yourself a far better chance of reaching your destination, no matter how small your starting point.
 
 ## The Closing Image
 
@@ -81,7 +81,7 @@ Wealth-building, for most of us, is not a race to outrun the wealthy — it is a
 
 But the sea is not honest. It does not simply rise and fall; it conspires with its winds, its hidden currents, its unseen predators. It offers calm to lure you from the harbour, swells to test your grip on the tiller, and glittering horizons to draw you into deeper waters.
 
-The market is no different. It does not ask whether you deserve safe passage. It only asks whether you understand its games well enough to avoid becoming someone else’s liquidity.
+The market is no different. It does not ask whether you deserve safe passage. It only asks whether you understand its games well enough to avoid becoming someone else's liquidity.
 
 In the end, the three vessels are not just ways to hold your money. They are ways to hold your belief — in safety, in growth, in the future itself. And belief, like any cargo, can be stolen if you leave it unattended.
 

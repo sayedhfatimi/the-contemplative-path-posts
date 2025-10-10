@@ -1,7 +1,7 @@
 ---
 title: 'The End of the Key Fob: Digital Access for a Smarter Age'
 pubDate: 2025-09-10T17:25:19Z
-updatedDate: 2025-09-22T12:04:12Z
+updatedDate: 2025-10-10T16:21:28Z
 excerpt: >-
   A plastic fob once felt modern. Today, it is wasteful, clumsy, and obsolete. Digital passes stored
   in Apple or Google Wallets can make access smarter, safer, and more sustainable—from offices and
@@ -34,6 +34,7 @@ tags:
 
 canonical: https://sayedhfatimi.blog/2025/09/10/the-end-of-the-key-fob-digital-access-for-a-smarter-age/
 ---
+
 For decades, buildings have been unlocked by small plastic tokens clipped to lanyards, stuffed into wallets, or forgotten in desk drawers. The key fob was once a symbol of modern security—an upgrade from heavy brass keys and clunky lock cylinders. With a wave of plastic, doors clicked open and systems recorded entry.
 
 But what was once cutting edge has become a relic. Key fobs are fragile, costly to replace, and administratively clumsy. They can be lost, copied, or stolen. They must be physically distributed, deactivated, and replaced. Every change in access rights requires paperwork and logistics rather than intelligence and immediacy.
@@ -74,7 +75,7 @@ Picture a visitor arriving for a meeting. Instead of signing a logbook and waiti
 
 Or consider a contractor tasked with repairing HVAC equipment. With traditional fobs, building managers either hand over unrestricted access or escort them floor by floor. With a digital pass, the contractor can be granted entry only to the service areas relevant to their work—nothing more, nothing less.
 
-Employees, too, benefit. Changing departments or roles often means waiting days for new fobs or standing in line at facilities. With digital passes, access rights can be adjusted instantly in the background. The employee’s phone updates silently; no physical exchange required.
+Employees, too, benefit. Changing departments or roles often means waiting days for new fobs or standing in line at facilities. With digital passes, access rights can be adjusted instantly in the background. The employee's phone updates silently; no physical exchange required.
 
 ### Unlocking Real Estate & Hospitality
 

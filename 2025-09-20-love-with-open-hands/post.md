@@ -1,7 +1,7 @@
 ---
 title: Love with Open Hands
 pubDate: 2025-09-20T22:50:35Z
-updatedDate: 2025-09-22T12:01:56Z
+updatedDate: 2025-10-10T16:21:28Z
 excerpt: >-
   “Letting go” has become the modern mantra. Yet if we relinquish all we desire, what remains to
   root a life? This piece argues for open-handed love—attachment, protection, loyalty—and the chosen
@@ -40,15 +40,15 @@ Everywhere I look, the modern creed seems to be the same two words: *let go*. I 
 
 And yet something in me resists. Not because I want to cling to everything, but because the slogan often feels like a misreading of life itself. If everything worth wanting must be released, what remains of a life? Where, in a short span of years, do we find the quiet fulfillment of holding something near and dear and staying with it long enough to become responsible for it—and to be shaped by it in return?
 
-Detachment may be the philosophy of our era. But whenever I watch someone protect what they love, stand loyal through weather, or shoulder the weight of another’s becoming, I recognise something older and truer. Attachment, protection, loyalty—these are not the enemies of freedom. They are the grammar through which a life learns to speak. We help each other grow. We guide and are guided. We learn as we go. Is this not what life is about?
+Detachment may be the philosophy of our era. But whenever I watch someone protect what they love, stand loyal through weather, or shoulder the weight of another's becoming, I recognise something older and truer. Attachment, protection, loyalty—these are not the enemies of freedom. They are the grammar through which a life learns to speak. We help each other grow. We guide and are guided. We learn as we go. Is this not what life is about?
 
 We begin, then, not with a rejection of letting go, but with a clarification: what is it we are meant to release, and what are we meant to keep? The difference matters. It is the difference between indifference and love; between clutching and care; between a life that drifts and a life that roots.
 
-## The Misunderstanding of “Letting Go”
+## The Misunderstanding of "Letting Go"
 
 When I am urged to let go, I try to hear the wiser sentence beneath it: release the need to control. That is different from releasing care. Somewhere along the way, a medicine for grasping became a mantra for disengagement. The practice meant to loosen our white-knuckled hold on outcomes hardened into a philosophy that suspects devotion itself. We started confusing detachment with indifference, as though love were safest at a distance.
 
-But love is not a spectator sport. It asks us to enter the field and stay there. “Letting go” in its deepest sense is not a command to withdraw; it is an invitation to stop trying to own the ending. When we confuse the two, we end up abandoning the very relationships and responsibilities that would have taught us what freedom actually feels like: not rootlessness, but rootedness without shackles; not apathy, but attention without possession.
+But love is not a spectator sport. It asks us to enter the field and stay there. "Letting go" in its deepest sense is not a command to withdraw; it is an invitation to stop trying to own the ending. When we confuse the two, we end up abandoning the very relationships and responsibilities that would have taught us what freedom actually feels like: not rootlessness, but rootedness without shackles; not apathy, but attention without possession.
 
 Possession cages. Commitment shelters. The first tightens its fist—*mine, mine, mine*—until the thing living inside can barely breathe. The second opens its hands and says: *I will be here. I will protect what is tender. I will carry my share of the weight, and sometimes more, because that is what our promise asks of me.* Letting go has value only when it frees us to hold this way.
 
@@ -82,15 +82,15 @@ In all of this I return to a simple test. Am I becoming more truthful, more cour
 
 ## Small Rituals That Help
 
-Change rarely arrives by declaration. It arrives by rhythm. I have found it useful to name my vows, plainly and without performance. Words spoken aloud have a way of binding us to our better selves. “I choose to be faithful to this person, to this work, to these principles.” The sentence is ordinary. The practice is not.
+Change rarely arrives by declaration. It arrives by rhythm. I have found it useful to name my vows, plainly and without performance. Words spoken aloud have a way of binding us to our better selves. "I choose to be faithful to this person, to this work, to these principles." The sentence is ordinary. The practice is not.
 
-I try, too, to keep a sabbath of release. One small arena each week where I let the outcome be what it will be, and I tend only to my part. It might be a conversation I do not over-script. A plan I do not micromanage. A day where I refuse the anxious compulsion to check the world’s approval of me. These tiny abstentions teach me the feel of an open hand.
+I try, too, to keep a sabbath of release. One small arena each week where I let the outcome be what it will be, and I tend only to my part. It might be a conversation I do not over-script. A plan I do not micromanage. A day where I refuse the anxious compulsion to check the world's approval of me. These tiny abstentions teach me the feel of an open hand.
 
-Gratitude is the other steadying ritual. Not as a performance of positivity, but as a daily naming of the ties I am glad to be bound to. Three things. Often the same things. The person whose presence steadies me. The work that refuses to flatter me. The principle that cost me something yesterday and is still worth it today. Gratitude does not remove the weight. It reminds me why I’m strong enough to carry it.
+Gratitude is the other steadying ritual. Not as a performance of positivity, but as a daily naming of the ties I am glad to be bound to. Three things. Often the same things. The person whose presence steadies me. The work that refuses to flatter me. The principle that cost me something yesterday and is still worth it today. Gratitude does not remove the weight. It reminds me why I'm strong enough to carry it.
 
 And when harm occurs—as it does in any real life—I am trying to choose repair before retreat. To apologise when I am the one who tore the fabric. To invite reconciliation when I am the one who was torn. And if the pattern becomes one of exploitation, to step away with clarity. That exit, too, can be a form of keeping faith, because it protects what love needs in order to remain love: dignity, safety, truth.
 
-## An Ending That Isn’t an Ending
+## An Ending That Isn't an Ending
 
 I began with a discomfort and arrive at a distinction. Letting go, when understood as non-clinging to outcomes, is wise. Letting go, when practised as indifference to what is near and dear, becomes a hollow creed. Life is not an endless shedding of desire until nothing remains. Life is the difficult, beautiful art of choosing what to carry and learning *how* to carry it.
 

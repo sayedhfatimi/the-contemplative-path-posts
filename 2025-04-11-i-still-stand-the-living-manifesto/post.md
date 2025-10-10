@@ -1,7 +1,7 @@
 ---
 title: I Still Stand; The Living Manifesto
 pubDate: 2025-04-11T04:27:55Z
-updatedDate: 2025-09-22T12:16:02Z
+updatedDate: 2025-10-10T16:21:29Z
 excerpt: >-
   A deeply personal reflection on betrayal, survival, and the unseen hand of Allah. Through hardship
   and hidden enemies, this piece explores the limits of human planning and the boundless reach of
@@ -15,7 +15,7 @@ categories:
   - mind-and-psychology
   - literature
 tags:
-  - Allah's Decree
+  - "Allah's Decree"
   - Ash-Shahid
   - betrayal
   - Divine Justice
@@ -39,7 +39,7 @@ tags:
 canonical: https://sayedhfatimi.blog/2025/04/11/i-still-stand-the-living-manifesto/
 ---
 
-Allah’s will is beyond human comprehension. We fail to recognise how it envelops every aspect of our being. We live in a state of delusion, believing—through sheer arrogance—that our actions, our toil, and our effort are the sole determinants of our fate.
+Allah's will is beyond human comprehension. We fail to recognise how it envelops every aspect of our being. We live in a state of delusion, believing—through sheer arrogance—that our actions, our toil, and our effort are the sole determinants of our fate.
 
 We neglect, we disbelieve. We act upon desires and whims without reflection—never considering whether our choices displease the One who gave us life.
 
@@ -51,7 +51,7 @@ They heard every whisper, every breath. They moved in the shadows, believing in 
 
 The power they were entrusted with—to protect—was turned against those it was meant to safeguard. Where was their supposed omnipotence, their claim to knowledge, when they were so easily deceived by the very illusion they created?
 
-The enemy acted in foolishness. They failed to see Allah’s hand over my life, failed to recognise His decree—and that is where they truly failed.
+The enemy acted in foolishness. They failed to see Allah's hand over my life, failed to recognise His decree—and that is where they truly failed.
 
 The attempted murders, the degradation, the humiliation—the lies, theft, deceit, and manipulation—were all for nought.
 
@@ -69,7 +69,7 @@ My life itself is a manifesto. A living decree. A sign that He watches. That Ash
 
 This manifesto is an irrefutable reminder to all creation: that the Son of Adam is nought but a creation. A creation who exists solely by His command. And though His mercy is vast—beyond measure—it is not without boundary.
 
-Woe unto those who took what was not theirs.  
-Woe unto those who stretched their hands beyond what was permitted.  
-Woe unto those who withheld what the Creator decreed for another—for sabotage, for greed, for pride.  
+Woe unto those who took what was not theirs.
+Woe unto those who stretched their hands beyond what was permitted.
+Woe unto those who withheld what the Creator decreed for another—for sabotage, for greed, for pride.
 Woe unto those who, when the time came to return what was entrusted, allowed their desires to overtake them, and conspired instead to enslave the rightful owner through injustice.

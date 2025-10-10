@@ -1,7 +1,7 @@
 ---
 title: 'The Canyon Between Ideals and Reality: Manmade Morality, Ethics, and the Machinery of Order'
 pubDate: 2025-05-07T10:47:02Z
-updatedDate: 2025-09-22T12:13:39Z
+updatedDate: 2025-10-10T16:21:29Z
 excerpt: >-
   There is a vast and often invisible canyon between the ethical ideals we claim to uphold and the
   lived reality of power, law, and social order. This post explores how our morals, ethics, and
@@ -66,7 +66,7 @@ If our morals are inherited and our ethics constructed, then our laws are the bl
 
 Laws are written to protect the stability of society, not necessarily the dignity of the individual. The legal system does not exist to embody justice—it exists to regulate behavior, preserve hierarchy, and prevent disruption. The individual is protected only insofar as their protection supports the broader order.
 
-Policing, likewise, is not a pursuit of ethical truth—it is a practice of enforcement. Police do not exist to weigh moral nuance; they exist to maintain control. And “control” means the preservation of the system as it stands, regardless of the moral questions that system might provoke.
+Policing, likewise, is not a pursuit of ethical truth—it is a practice of enforcement. Police do not exist to weigh moral nuance; they exist to maintain control. And "control" means the preservation of the system as it stands, regardless of the moral questions that system might provoke.
 
 ## Power Demands Exceptions, Ethics Demands Consistency
 
@@ -74,10 +74,10 @@ This is where the canyon deepens.
 
 Manmade ethics seeks universality—a sense of fairness and right that applies equally to all. But systems of power thrive on exceptions—the ability to break their own rules when convenient.
 
-Ethics says: *No person is above the law.  
+Ethics says: *No person is above the law.
 *Power says: *Some people must be, to preserve order.*
 
-In every age, we see how ethical ideals are sacrificed to protect institutional power. Surveillance, detention, war, censorship—all justified “for the greater good.” But whose good is being protected? And at what cost?
+In every age, we see how ethical ideals are sacrificed to protect institutional power. Surveillance, detention, war, censorship—all justified "for the greater good." But whose good is being protected? And at what cost?
 
 ## Legal ≠ Moral: The Weaponization of Legality
 
@@ -97,8 +97,8 @@ Caught between the high ideals of manmade ethics and the cold machinery of law i
 
 Yet in that canyon—between what is and what should be—lies the potential for transformation.
 
-This is where rebels, reformers, artists, and philosophers emerge.  
-This is where truth survives propaganda, and ethics regains its teeth.  
+This is where rebels, reformers, artists, and philosophers emerge.
+This is where truth survives propaganda, and ethics regains its teeth.
 This is where ideals are not abandoned, but sharpened into tools of resistance.
 
 ## Manmade Ethics as a Tool of Confrontation
@@ -111,7 +111,7 @@ Ethics is not about conformity—it is about confrontation. It is not the langua
 
 - Who benefits from this moral code?
 
-- What do we call “order” that rests on suppression?
+- What do we call "order" that rests on suppression?
 
 ## Naming the Canyon, Bridging the Divide
 

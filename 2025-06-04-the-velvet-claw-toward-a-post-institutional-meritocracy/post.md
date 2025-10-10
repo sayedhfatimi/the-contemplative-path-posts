@@ -1,7 +1,7 @@
 ---
 title: 'The Velvet Claw: Toward a Post-Institutional Meritocracy'
 pubDate: 2025-06-04T07:33:47Z
-updatedDate: 2025-09-22T12:11:16Z
+updatedDate: 2025-10-10T16:21:29Z
 excerpt: >-
   The claw of power may never vanish. But if wrapped in velvet—wielded with wisdom, chosen with
   care—it may no longer wound, but shape. A better world doesn’t begin by abolishing power, but by
@@ -38,7 +38,7 @@ In the quiet chambers of political thought, two seemingly opposing figures echo 
 
 Institutions, once the scaffolding of civilization, have decayed into monuments of inertia. Their legitimacy falters not because of ideology, but entropy. Bureaucracy breeds stagnation. Representation becomes simulation. And leadership, once the domain of character and clarity, has devolved into brand management.
 
-Machiavelli taught us that power is the currency of order. Yet Angelou reminds us that power untethered from morality becomes tyranny. Her wisdom speaks to the soul of power, not just its strategy: *“I come as one, but I stand as ten thousand.”*
+Machiavelli taught us that power is the currency of order. Yet Angelou reminds us that power untethered from morality becomes tyranny. Her wisdom speaks to the soul of power, not just its strategy: *"I come as one, but I stand as ten thousand."*
 
 ## Enter the Post-Institutional Meritocracy
 

@@ -1,7 +1,7 @@
 ---
 title: 'EVs and the Air We Breathe: From Catalytic Converters to Clean Streets'
 pubDate: 2025-09-15T10:43:25Z
-updatedDate: 2025-09-22T12:03:12Z
+updatedDate: 2025-10-10T16:21:28Z
 excerpt: >-
   EVs are often criticised for their manufacturing footprint, but this misses the crucial point:
   they have no tailpipes. In cities like London, where millions of ICE cars exhale poison daily, EVs
@@ -56,7 +56,7 @@ Electric vehicles flip that script. Instead of asking every driver to maintain a
 
 This is the strategic advantage of containment over diffusion. A city breathing the exhaust of ten million engines is a city with ten million points of failure. A city charging EVs from a decarbonizing grid is a city with a small number of levers that can be pulled hard: cleaner generation, smarter demand management, and stricter industrial standards.
 
-Crucially, progress compounds. Each percentage point of grid cleanliness improves *every* EV at once. Each upgrade to a factory’s recycling loop lowers the footprint of *every* battery rolling off the line. Policy, engineering, and investment cascade through centralized infrastructure in a way that simply isn’t possible with a million distributed engines.
+Crucially, progress compounds. Each percentage point of grid cleanliness improves *every* EV at once. Each upgrade to a factory's recycling loop lowers the footprint of *every* battery rolling off the line. Policy, engineering, and investment cascade through centralized infrastructure in a way that simply isn't possible with a million distributed engines.
 
 ## The Air We Share
 
