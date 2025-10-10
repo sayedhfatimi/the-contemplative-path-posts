@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "112f886a6d5d8e92",
+        "id": "89fa2c74b17dd2c5",
         "type": "tabs",
         "children": [
           {
-            "id": "f85431cd66391ff1",
+            "id": "5b9a9beb959bffd9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,6 +162,8 @@
       "bases:Create new base": false
     }
   },
-  "active": "f85431cd66391ff1",
-  "lastOpenFiles": []
+  "active": "5b9a9beb959bffd9",
+  "lastOpenFiles": [
+    "2025-10-02-foundations-before-towers-on-first-principles-lemmas-and-the-architecture-of-thought/post.md"
+  ]
 }
