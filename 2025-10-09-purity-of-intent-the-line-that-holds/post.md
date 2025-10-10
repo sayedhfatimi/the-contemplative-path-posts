@@ -1,7 +1,7 @@
 ---
 title: "Purity of Intent: The Line That Holds"
 pubDate: 2025-10-09T17:47:00Z
-updatedDate: 2025-10-09T17:47:00Z
+updatedDate: 2025-10-10T03:53:30Z
 excerpt: >-
   Intention is the unseen vector of action. This essay explores how motive shapes
   judgment, why outcomes alone mislead, and the daily practices—proportion,
@@ -25,6 +25,26 @@ tags:
   - repair
   - ethical-practice
   - judgment
+  - moral-intention
+  - ethical-discernment
+  - virtue-ethics
+  - motive-and-action
+  - inner-architecture
+  - moral-philosophy
+  - psychology-of-intent
+  - self-examination
+  - moral-clarity
+  - integrity
+  - trust-and-accountability
+  - moral-failure
+  - repair-and-redemption
+  - ethical-boundaries
+  - moral-compass
+  - ethical-habit
+  - ethical-principles
+  - moral-judgment
+  - intent-vs-outcome
+  - moral-maturity
 
 canonical: https://sayedhfatimi.blog/2025/10/09/purity-of-intent-the-line-that-holds/
 ---
