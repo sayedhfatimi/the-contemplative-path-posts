@@ -3,5 +3,6 @@
   "userIgnoreFilters": [
     ".git/",
     ".github/"
-  ]
+  ],
+  "promptDelete": false
 }

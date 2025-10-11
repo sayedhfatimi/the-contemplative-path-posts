@@ -277,7 +277,8 @@
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
-    "_templates"
+    "_templates",
+    "_scripts"
   ],
   "filesToIgnore": [],
   "linterLocale": "system-default",
