@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89fa2c74b17dd2c5",
+        "id": "71baecb49a9f5bd1",
         "type": "tabs",
         "children": [
           {
-            "id": "5b9a9beb959bffd9",
+            "id": "2fa56e892e8531d3",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -152,7 +152,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -162,8 +161,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b9a9beb959bffd9",
+  "active": "2fa56e892e8531d3",
   "lastOpenFiles": [
+    "2025-10-11-the-margin-of-error-when-measurement-meets-meaning/post.md",
+    "2025-10-11-the-margin-of-error-when-measurement-meets-meaning/cover.png",
+    "2025-10-11-the-margin-of-error-when-measurement-meets-meaning",
     "2025-10-02-foundations-before-towers-on-first-principles-lemmas-and-the-architecture-of-thought/post.md"
   ]
 }
