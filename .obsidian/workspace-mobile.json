@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "71baecb49a9f5bd1",
+        "id": "85d321d40e5d6a14",
         "type": "tabs",
         "children": [
           {
-            "id": "2fa56e892e8531d3",
+            "id": "eb088feb4cd0ceac",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,9 +161,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "2fa56e892e8531d3",
+  "active": "eb088feb4cd0ceac",
   "lastOpenFiles": [
+    "2025-10-12-descartes-jung-and-the-anatomy-of-the-inner-world/post.md",
     "2025-10-11-the-margin-of-error-when-measurement-meets-meaning/post.md",
+    "2025-10-12-descartes-jung-and-the-anatomy-of-the-inner-world/cover.png",
+    "2025-10-12-descartes-jung-and-the-anatomy-of-the-inner-world",
     "2025-10-11-the-margin-of-error-when-measurement-meets-meaning/cover.png",
     "2025-10-11-the-margin-of-error-when-measurement-meets-meaning",
     "2025-10-02-foundations-before-towers-on-first-principles-lemmas-and-the-architecture-of-thought/post.md"
