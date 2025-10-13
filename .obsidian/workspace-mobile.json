@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85d321d40e5d6a14",
+        "id": "fa3d6f4a77aabf12",
         "type": "tabs",
         "children": [
           {
-            "id": "eb088feb4cd0ceac",
+            "id": "ca0774328ca2951e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "eb088feb4cd0ceac",
+  "active": "ca0774328ca2951e",
   "lastOpenFiles": [
+    "2025-10-13-reflections-on-gratitude/post.md",
+    "2025-10-13-reflections-on-gratitude/cover.png",
+    "2025-10-13-reflections-on-gratitude",
+    "2025-10-13-when-the-river-runs-thin-pensions-new-humans-and-the-dependency-flip/post.md",
+    "2025-10-13-when-the-river-runs-thin-pensions-new-humans-and-the-dependency-flip",
     "2025-10-12-descartes-jung-and-the-anatomy-of-the-inner-world/post.md",
     "2025-10-11-the-margin-of-error-when-measurement-meets-meaning/post.md",
     "2025-10-12-descartes-jung-and-the-anatomy-of-the-inner-world/cover.png",
