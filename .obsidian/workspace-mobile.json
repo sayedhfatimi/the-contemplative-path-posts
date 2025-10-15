@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1fda8f15f201f5a4",
+        "id": "232096016391ef04",
         "type": "tabs",
         "children": [
           {
-            "id": "6cd033c41812840e",
+            "id": "ea9cd6d80aa8d127",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "2025-10-16-the-weight-we-choose/post.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "post"
             }
           }
         ]
@@ -161,8 +165,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "6cd033c41812840e",
+  "active": "ea9cd6d80aa8d127",
   "lastOpenFiles": [
+    "2025-10-16-the-weight-we-choose/cover.png",
+    "2025-10-16-the-weight-we-choose/post.md",
+    "2025-10-16-the-weight-we-choose",
     "2025-10-15-daily-vs-weekly-market-closes-mechanics-gaps-and-why-they-matter/post.md",
     "2025-10-15-daily-vs-weekly-market-closes-mechanics-gaps-and-why-they-matter",
     "2025-10-13-reflections-on-gratitude/post.md",
