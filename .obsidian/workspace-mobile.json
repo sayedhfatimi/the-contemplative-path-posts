@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fa3d6f4a77aabf12",
+        "id": "1fda8f15f201f5a4",
         "type": "tabs",
         "children": [
           {
-            "id": "ca0774328ca2951e",
+            "id": "6cd033c41812840e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -32,7 +32,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "alphabeticalReverse",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -161,8 +161,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "ca0774328ca2951e",
+  "active": "6cd033c41812840e",
   "lastOpenFiles": [
+    "2025-10-15-daily-vs-weekly-market-closes-mechanics-gaps-and-why-they-matter/post.md",
+    "2025-10-15-daily-vs-weekly-market-closes-mechanics-gaps-and-why-they-matter",
     "2025-10-13-reflections-on-gratitude/post.md",
     "2025-10-13-reflections-on-gratitude/cover.png",
     "2025-10-13-reflections-on-gratitude",
