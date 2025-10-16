@@ -1,7 +1,7 @@
 ---
 title: "From Geometry to Experiment: Archimedes to Galileo"
 pubDate: 2025-10-16T09:55:03Z
-updatedDate: 2025-10-16T10:06:41Z
+updatedDate: 2025-10-16T10:24:43Z
 excerpt: |
   Physics turns wonder into practice: from Archimedes’ geometry and instruments to Galileo’s timing and idealisations, nature begins to speak in numbers we can test.
 cover: ./cover.png
@@ -103,14 +103,16 @@ The payoff was a clean relationship: start from rest on a fixed slope, and the d
 
 $$
 s = \tfrac{1}{2} a t^2
-$$ for uniform acceleration from rest. He could predict. He could **check**. Others could repeat it.
+$$
+
+for uniform acceleration from rest. He could predict. He could **check**. Others could repeat it.
 
 Two additional moves often go underappreciated.
 
 - **Thought experiments** as probes. If a perfectly smooth ball rolls down from a certain height to a perfectly smooth horizontal, then up another incline, it rises to the **same height** if nothing dissipates energy. Reduce the slope and it travels farther horizontally before climbing—suggesting that if the surface were perfectly horizontal and frictionless, it would never stop. This is the soul of inertia smuggled in through geometry.
 - **Error as data.** Galileo was not blind to scatter. He compared runs, averaged numbers, and looked for **trends** robust to noise. Agreement across different slopes mattered more than any single perfect run.
 
-> **Idealisation is not lying.**  
+> **Idealisation is not lying.**
 > It is how we hear law beneath the noise.
 
 ## What Idealisation Gives—and Costs
@@ -121,11 +123,11 @@ The art is to choose an idealisation that **exposes** the law we seek without er
 
 ## Scaling Laws: Why Ants Lift Cities and Giants Fall
 
-Galileo also glimpsed the logic of **scale**. If a creature’s length grows by a factor $L$, its **surface area** grows like $L^2$ while its **volume** (and roughly its weight) grows like $L^3$. Strength depends on the **cross-section** of bones (area), but weight depends on **volume**. Double the size and you more than double the load.
+Galileo also glimpsed the logic of **scale**. If a creature's length grows by a factor $L$, its **surface area** grows like $L^2$ while its **volume** (and roughly its weight) grows like $L^3$. Strength depends on the **cross-section** of bones (area), but weight depends on **volume**. Double the size and you more than double the load.
 
 Consequences cascade.
 
-- Ants can carry astonishing loads because their area-to-volume ratio is generous. Their “beams” (exoskeleton) scale favorably relative to their weight.
+- Ants can carry astonishing loads because their area-to-volume ratio is generous. Their "beams" (exoskeleton) scale favorably relative to their weight.
 - Giants must be squat or reinforced; arches must be thicker as spans grow. Bridges, trees, and femurs reveal the same compromise.
 - The same logic constrains buildings, lungs, blood vessels, and even microchips: as you scale a design, some variables grow faster than others. What works at one size fails at another.
 
@@ -159,42 +161,42 @@ Trust emerges from a pattern:
 
 This ethos is the social contract of physics: methods anyone can follow; results anyone can test; humility about uncertainty; courage about claims that survive scrutiny.
 
-## What Changed—and What Didn’t
+## What Changed—and What Didn't
 
 After Archimedes and Galileo, physics possessed a **grammar**: define quantities, imagine ideal systems, measure patiently, and write laws that survive repetition. But the older posture remained. Philosophy still whispers questions about order, cause, and intelligibility; we now meet them with instruments in hand.
 
 - Causality leans toward **dynamics**: laws that map states into next states.
 - Symmetry will become **conservation**: if nothing in a setup changes when you shift in time, total energy stays fixed; if nothing changes when you slide in space, total momentum stays fixed. The seeds are already present in the instinct for balance and invariance.
-- Simplicity and elegance become **criteria** we argue about and test: simple laws with broad reach are preferred, provided nature keeps saying “yes.”
+- Simplicity and elegance become **criteria** we argue about and test: simple laws with broad reach are preferred, provided nature keeps saying "yes."
 
 The ground has shifted. Wonder has learned a new language. Numbers are not the end of awe; they are its **grammar**.
 
 ## Try This: Measure Gravity with a Phone and a Plank
 
-You can reproduce Galileo’s insight at home.
+You can reproduce Galileo's insight at home.
 
-**You’ll need:** a long smooth board, a small ball, a book (to raise one end), tape, a ruler, and a phone with slo-mo video.
+**You'll need:** a long smooth board, a small ball, a book (to raise one end), tape, a ruler, and a phone with slo-mo video.
 
 1. **Build an incline.** Prop one end of the board on a book so the slope is gentle. If possible, measure the angle $\theta$ with a phone app or a simple protractor.
 2. **Mark positions.** Put tape marks every 10–15 cm down the slope. Number them from the top.
 3. **Record.** Start the ball from rest at the top; film in **slo-mo** from the side so the marks are visible. Keep the camera steady.
 4. **Extract times.** For each mark, note the time stamp when the front of the ball crosses it. (Scrub frame by frame if needed.)
-5. **Look for $t^2$.** Compute distances from the start to each mark. Make a quick table with two columns: $t^2$ and $s$. If the motion has roughly constant acceleration, $s$ will be approximately proportional to $t^2$ and your points will line up. A straighter $s$-vs-$t^2$ pattern than $s$-vs-$t$ is the signature you’re hunting.
+5. **Look for $t^2$.** Compute distances from the start to each mark. Make a quick table with two columns: $t^2$ and $s$. If the motion has roughly constant acceleration, $s$ will be approximately proportional to $t^2$ and your points will line up. A straighter $s$-vs-$t^2$ pattern than $s$-vs-$t$ is the signature you're hunting.
 6. **Estimate $a$ and $g$.** Fit a straight line to $s$ vs $t^2$ (eyeball is fine). The slope is roughly $\tfrac{1}{2}a$. Solve for $a$, then estimate gravity by $g \approx \dfrac{a}{\sin\theta}$.
-7. **Reduce noise.** Repeat 5–10 runs; average corresponding times. Smooth the track (paper, tape) and clean the ball to reduce friction. You should see your scatter shrink while the line’s slope remains similar.
+7. **Reduce noise.** Repeat 5–10 runs; average corresponding times. Smooth the track (paper, tape) and clean the ball to reduce friction. You should see your scatter shrink while the line's slope remains similar.
 8. **Sanity checks.** Increase the angle slightly. Your $a$ should increase, and your $g$ estimate from $a/\sin\theta$ should stay roughly the same. Switch to a heavier ball; if rolling friction dominated before, the scatter and slope may change a little. Note what changes and what stays stable.
 
 Write a brief note in your notebook: Which change—smoother surface or more repeats—helped more? What remained consistent across your variations? That consistency is what physics calls a **law** peeking through the noise.
 
 ## Method, Law, and the Promise of Order
 
-Archimedes and Galileo did more than solve puzzles; they changed the terms of knowledge. They turned qualities into **quantities**, hunches into **procedures**, and private insight into **public method**. Once you demand operational definitions, shared units, and repeatable measurements, argument shifts from “who is right” to “what survives the same question asked the same way.” That shift is the foundation on which everything that follows will stand.
+Archimedes and Galileo did more than solve puzzles; they changed the terms of knowledge. They turned qualities into **quantities**, hunches into **procedures**, and private insight into **public method**. Once you demand operational definitions, shared units, and repeatable measurements, argument shifts from "who is right" to "what survives the same question asked the same way." That shift is the foundation on which everything that follows will stand.
 
-They also separated **kinematics** (how things move) from **dynamics** (why they move), a conceptual split that clears the stage for law. Galileo’s $s \propto t^2$ is a kinematic pattern extracted by idealisation; it invites a dynamic explanation—some constant agency producing constant acceleration. The lever turns shape into constraint; the inclined plane turns time into variable; the square–cube insight turns scaling into prediction. Each move extracts a structural **invariant** from noisy experience.
+They also separated **kinematics** (how things move) from **dynamics** (why they move), a conceptual split that clears the stage for law. Galileo's $s \propto t^2$ is a kinematic pattern extracted by idealisation; it invites a dynamic explanation—some constant agency producing constant acceleration. The lever turns shape into constraint; the inclined plane turns time into variable; the square–cube insight turns scaling into prediction. Each move extracts a structural **invariant** from noisy experience.
 
 Equally important, they made knowledge **portable**. Instruments encode theory into routine; anyone who follows the routine can check the claim. Error becomes visible and therefore negotiable: we average, we calibrate, we cross-check. Trust is no longer a property of authors; it is a property of methods. That social technology—the public, repeatable experiment—is why physics could become a community project rather than a lineage of authorities.
 
-This matters for what comes next. Newton will take Galileo’s cleaned-up motion and write the grammar that binds it: inertia as a universal backdrop, force as cause, and proportionality between the two—$F = ma$. Archimedes’ lever becomes torque; Galileo’s idealised motion becomes the test case for a law; the method of exhaustion blossoms into **calculus**, a language of limits fit for change. The same insistence on invariance will mature into **conservation principles**: when nothing changes in time, energy is constant; when nothing changes in space, momentum is constant. (We will name these carefully in Part 3.)
+This matters for what comes next. Newton will take Galileo's cleaned-up motion and write the grammar that binds it: inertia as a universal backdrop, force as cause, and proportionality between the two—$F = ma$. Archimedes' lever becomes torque; Galileo's idealised motion becomes the test case for a law; the method of exhaustion blossoms into **calculus**, a language of limits fit for change. The same insistence on invariance will mature into **conservation principles**: when nothing changes in time, energy is constant; when nothing changes in space, momentum is constant. (We will name these carefully in Part 3.)
 
 If you want a single takeaway, take this: **method is the covenant between curiosity and the world**. Define what you mean, idealise to hear the signal, measure with care, and let the result stand—even against your preference. That covenant is why simple lines on paper became predictions about comets, tides, and falling apples.
 
@@ -206,4 +208,4 @@ If you want a single takeaway, take this: **method is the covenant between curio
 - **Scalability:** Dimensional and scaling arguments stress-test ideas before heavy math.
 - **Invariance:** Early instincts about balance and uniform acceleration foreshadow conservation laws.
 
-Next time, we use this grammar to write our first full sentence. We’ll state Newton’s three laws as **axioms**, show how they organise motion into a coherent system, and introduce just enough calculus to see why a law like $F = ma$ turns patterns (Galileo’s $s \sim t^2$) into **predictions** about worlds—from sliding blocks to planets.
+Next time, we use this grammar to write our first full sentence. We'll state Newton's three laws as **axioms**, show how they organise motion into a coherent system, and introduce just enough calculus to see why a law like $F = ma$ turns patterns (Galileo's $s \sim t^2$) into **predictions** about worlds—from sliding blocks to planets.

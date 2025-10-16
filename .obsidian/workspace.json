@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74cb36d51ed7cb40",
+        "id": "f92444759a89e1a7",
         "type": "tabs",
         "children": [
           {
-            "id": "20e68d63c125896d",
+            "id": "b03f5f818cfcac61",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "db141e7e8f9494f8",
+  "active": "b03f5f818cfcac61",
   "lastOpenFiles": [
+    "2025-10-16-from-geometry-to-experiment-archimedes-to-galileo/post.md",
     "2025-10-11-adfev-afdva-afva/post.md",
     "2025-10-11-adfev-afdva-afva",
     "_scripts/createDatedPostFolder.js",
