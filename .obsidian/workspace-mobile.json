@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dcb36fff5007e8d0",
+        "id": "386689de21ccea3a",
         "type": "tabs",
         "children": [
           {
-            "id": "5ebd32c1fdd70587",
+            "id": "b9787556bce6455a",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -161,8 +161,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5ebd32c1fdd70587",
+  "active": "b9787556bce6455a",
   "lastOpenFiles": [
+    "2025-10-16-from-geometry-to-experiment-archimedes-to-galileo/post.md",
+    "2025-10-16-from-geometry-to-experiment-archimedes-to-galileo/cover.png",
+    "2025-10-16-from-geometry-to-experiment-archimedes-to-galileo",
     "2025-10-16-the-weight-we-choose/post.md",
     "2025-10-16-the-weight-we-choose/cover.png",
     "2025-10-16-the-weight-we-choose",
