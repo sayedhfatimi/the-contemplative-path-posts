@@ -1,7 +1,7 @@
 ---
 title: 'RideCompass: Finding the Cheapest Journey Across Platforms'
 pubDate: 2025-09-13T21:55:18Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Finding the cheapest ride in London isn’t as simple as picking one app. Prices fluctuate across
   Uber, Bolt, FreeNow, Smartzee—and even black cabs. Drawing from my time as a driver, I explore the

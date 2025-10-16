@@ -1,7 +1,7 @@
 ---
 title: 'The Script and the Rhythm: Understanding Wyckoff Mechanics and Elliott Waves'
 pubDate: 2025-08-17T11:13:15Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   In markets, cycles are not random—they are patterned expansions and contractions shaped by
   accumulation, distribution, and the relentless hunt for liquidity. By weaving Wyckoff mechanics

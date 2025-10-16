@@ -1,7 +1,7 @@
 ---
 title: Love with Open Hands
 pubDate: 2025-09-20T22:50:35Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   “Letting go” has become the modern mantra. Yet if we relinquish all we desire, what remains to
   root a life? This piece argues for open-handed love—attachment, protection, loyalty—and the chosen

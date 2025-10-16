@@ -1,7 +1,7 @@
 ---
 title: 'The Sweller Load: Rethinking Human Learning Efficiency in the Age of AI'
 pubDate: 2025-04-29T16:56:34Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   Cognitive Load Theory changed how we understand learning — but what if we could push it even
   further? Introducing the “Sweller Load,” a new framework for dynamically optimizing how

@@ -1,7 +1,7 @@
 ---
 title: 'The Long Shadow of Markets: Understanding the Secondary Market Effect and Arbitrage'
 pubDate: 2025-08-11T19:00:36Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Prices can change in seconds, but consequences can take decades to arrive. The secondary market
   effect and arbitrage reveal why — and how short-term gains often mask long-term costs. From

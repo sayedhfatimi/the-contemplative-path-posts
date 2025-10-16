@@ -1,7 +1,7 @@
 ---
 title: 'Healing Abandonment Wounds: From Trauma to Safety and Self-Compassion'
 pubDate: 2025-07-08T03:55:36Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Abandonment wounds run deep, shaping how we navigate love, trust, and safety. Through
   understanding trauma, conditions like BPD, and the power of compassionate healing, we can begin to

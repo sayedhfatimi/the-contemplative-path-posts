@@ -1,7 +1,7 @@
 ---
 title: 'When Integrity is Optional, So is Loyalty'
 pubDate: 2025-05-25T11:39:05Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   True integrity isn’t proven when it’s easy to uphold—it’s revealed when betrayal is the faster
   path to gain. And when someone takes that path, only to turn back once they’ve failed, what they

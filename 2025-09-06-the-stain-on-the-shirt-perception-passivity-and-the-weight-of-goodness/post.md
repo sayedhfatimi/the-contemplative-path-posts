@@ -1,7 +1,7 @@
 ---
 title: 'The Stain on the Shirt: Perception, Passivity, and the Weight of Goodness'
 pubDate: 2025-09-06T17:25:47Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Evil does not overwhelm the world, yet a single act of cruelty can feel larger than life—like a
   stain on a white shirt. Goodness is the quiet backdrop of daily life, but it gains meaning only

@@ -1,7 +1,7 @@
 ---
 title: "The Living Archive of Language: Etymology, Perception, and the Future Tongue"
 pubDate: 2025-10-06T23:58:00Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:52Z
 excerpt: >-
   Language is not a fixed code but a living archive—shaped by etymology, environment, and attention—through which perception evolves and the world is made speakable.
 cover: ./cover.png

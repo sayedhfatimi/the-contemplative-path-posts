@@ -1,7 +1,7 @@
 ---
 title: The Taming of the Inner Monologue
 pubDate: 2025-04-25T08:36:46Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   “The most powerful voice you will ever hear is the one no one else can.” The Unseen Engine Every
   human being walks the world with a voice echoing silently in their mind, a narrator unseen, yet

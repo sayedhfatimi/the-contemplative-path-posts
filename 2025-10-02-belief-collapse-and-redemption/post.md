@@ -1,7 +1,7 @@
 ---
 title: "Belief, Collapse, and Redemption"
 pubDate: 2025-10-01T23:25:34Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:52Z
 excerpt: >-
   We build our worlds on belief—often reinforced by the echo of others—until illusion collapses and demands the harder work of integrity, repair, and renewal. This essay traces the arc from chorus to shattering to redemption.
 cover: ./cover.png

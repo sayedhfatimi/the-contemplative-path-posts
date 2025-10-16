@@ -1,7 +1,7 @@
 ---
 title: Beyond Kings and Thrones
 pubDate: 2025-04-24T02:25:51Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   Power Without a Face The world today is not ruled by kings, but that doesn’t mean it is free from
   kingship. Power has simply changed costumes. It has abandoned thrones for terminals, and decrees

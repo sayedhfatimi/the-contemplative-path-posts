@@ -1,7 +1,7 @@
 ---
 title: 'The Universal Dichotomies: How Chaos Gives Birth to Order'
 pubDate: 2025-05-08T03:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   In this post, we explore the fascinating interplay between chaos and order, showing how the
   conservation of information, entropy, and the rise of complexity shape both the universe and human

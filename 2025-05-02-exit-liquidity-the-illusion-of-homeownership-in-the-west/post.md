@@ -1,7 +1,7 @@
 ---
 title: 'Exit Liquidity: The Illusion of Homeownership in the West'
 pubDate: 2025-05-02T19:41:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   For decades, homeownership has been sold as the ultimate symbol of success — but behind the glossy
   promises, today’s housing market reveals a harsher truth. As prices soar and wages stagnate, the

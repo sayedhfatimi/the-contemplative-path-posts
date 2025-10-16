@@ -52,10 +52,10 @@
       "sort-order": "Ascending Alphabetical"
     },
     "yaml-key-sort": {
-      "enabled": false,
-      "yaml-key-priority-sort-order": "",
+      "enabled": true,
+      "yaml-key-priority-sort-order": "title\npubDate\nupdatedDate\nexcerpt\ncover\ncoverAlt\nauthor\nseries\nfeatured\ncategories\ntags\ncanonical",
       "priority-keys-at-start-of-yaml": true,
-      "yaml-sort-order-for-other-keys": "None"
+      "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
       "enabled": true,

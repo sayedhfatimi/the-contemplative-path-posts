@@ -1,7 +1,7 @@
 ---
 title: 'Conjecture on Jinn: Physical Phenomena, Mythology, and Religious Texts'
 pubDate: 2025-04-06T09:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   Introduction Within Islamic theology and broader mythological traditions, jinn are depicted as
   intelligent, volitional entities created from “smokeless fire” — a form distinct from both human

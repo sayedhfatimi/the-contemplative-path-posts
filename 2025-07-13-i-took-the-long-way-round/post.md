@@ -1,7 +1,7 @@
 ---
 title: I Took The Long Way Round
 pubDate: 2025-07-12T23:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   A quiet reflection on pain, healing, and companionship. Sometimes the longest roads lead us to the
   gentlest places—and to people who choose to walk beside us, not ahead.

@@ -1,7 +1,7 @@
 ---
 title: The Shepherd and The Sheeple
 pubDate: 2025-07-17T21:34:22Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   From the outside, American democracy looks less like a system of the people and more like a
   well-staged illusion. With Trump back in office and the machinery of power unchanged, the illusion

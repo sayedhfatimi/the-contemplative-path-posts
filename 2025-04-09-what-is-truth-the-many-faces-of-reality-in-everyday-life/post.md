@@ -1,7 +1,7 @@
 ---
 title: What Is Truth? The Many Faces of Reality in Everyday Life
 pubDate: 2025-04-09T09:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   In a world where facts are debated, belief systems clash, and identities multiply, the question of
   truth is no longer a philosophical luxury—it’s a daily necessity. We often speak of truth as if

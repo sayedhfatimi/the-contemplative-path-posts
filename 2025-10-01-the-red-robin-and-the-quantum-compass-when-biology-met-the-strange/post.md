@@ -1,7 +1,7 @@
 ---
 title: "The Red Robin and the Quantum Compass: When Biology Met the Strange"
 pubDate: 2025-10-01T09:39:35Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:52Z
 excerpt: >
   A European robin “sees” Earth’s magnetic field through quantum effects in its eye—an elegant bridge between physics and life.
   This essay follows how cryptochrome, radical pairs, and entanglement helped launch quantum biology and reframes what it means to navigate.

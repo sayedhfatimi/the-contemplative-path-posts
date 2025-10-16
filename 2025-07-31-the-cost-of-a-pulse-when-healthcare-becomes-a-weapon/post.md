@@ -1,7 +1,7 @@
 ---
 title: 'The Cost of a Pulse: When Healthcare Becomes a Weapon'
 pubDate: 2025-07-31T16:34:35Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   When healing becomes a liability and prevention is unprofitable, what we call “healthcare” becomes
   something else entirely—a weapon of economic control. This piece explores the true cost of

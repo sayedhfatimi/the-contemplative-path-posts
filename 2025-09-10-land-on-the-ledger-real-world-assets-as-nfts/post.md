@@ -1,7 +1,7 @@
 ---
 title: 'Land on the Ledger: Real-World Assets as NFTs'
 pubDate: 2025-09-10T18:03:48Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Ownership is more than paperwork. This proposal maps land titles to NFTs so the blockchain becomes
   the registry itself—legally recognized, programmable, and auditable—uniting code and courts for

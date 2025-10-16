@@ -1,7 +1,7 @@
 ---
 title: 'Corporations, Convenience, and the Hidden Reshaping of Our Lives'
 pubDate: 2025-09-30T00:38:25Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   From Google Maps rerouting entire towns to Amazon Flex unlocking apartment doors, corporations are
   reshaping our infrastructure and routines—quietly trading our privacy for convenience.

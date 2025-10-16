@@ -1,12 +1,16 @@
 ---
 title: "From Geometry to Experiment: Archimedes to Galileo"
 pubDate: 2025-10-16T09:55:03Z
-updatedDate: 2025-10-16T10:24:43Z
+updatedDate: 2025-10-16T10:42:52Z
 excerpt: |
   Physics turns wonder into practice: from Archimedes’ geometry and instruments to Galileo’s timing and idealisations, nature begins to speak in numbers we can test.
 cover: ./cover.png
 coverAlt: Dawn landscape with a teal-orange sky where equations drift across the clouds above a field of scientific contraptions—lever, astrolabe, balance, wheel—while a lone figure watches from afar
 author: sayed-hamid-fatimi
+series:
+  slug: physics-for-beginners
+  title: Physics for Beginners
+  part: 2
 categories:
   - philosophy
   - science-and-technology
@@ -27,10 +31,6 @@ tags:
   - ibn-al-haytham
   - scientific-method
   - error-analysis
-series:
-  slug: physics-for-beginners
-  title: Physics for Beginners
-  part: 2
 canonical: https://sayedhfatimi.blog/2025/10/16/from-geometry-to-experiment-archimedes-to-galileo/
 ---
 

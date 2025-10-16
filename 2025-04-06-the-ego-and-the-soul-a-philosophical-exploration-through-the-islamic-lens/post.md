@@ -1,7 +1,7 @@
 ---
 title: 'The Ego and the Soul: A Philosophical Exploration Through the Islamic Lens'
 pubDate: 2025-04-06T09:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   In every human being, there exists a tension — between what desires and what discerns, between
   what clings and what surrenders. This inner divide is the site of life’s greatest struggle: the

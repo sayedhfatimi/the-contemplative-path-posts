@@ -1,7 +1,7 @@
 ---
 title: Shall I Tell You
 pubDate: 2025-06-16T11:00:10Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: |
   “Shall I tell you how the justice I sought began seeking me too—
   As if reality bent its will in the face of tears dropped in silence?”

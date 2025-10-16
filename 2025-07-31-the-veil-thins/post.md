@@ -1,7 +1,7 @@
 ---
 title: The Veil Thins
 pubDate: 2025-07-31T05:18:13Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   The veil between worlds grows thin—not by prophecy or permission, but by consequence. Those who
   follow the path it reveals do so at their peril, for what lies beyond is neither good nor evil,

@@ -1,7 +1,7 @@
 ---
 title: I Still Stand; The Living Manifesto
 pubDate: 2025-04-11T04:27:55Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   A deeply personal reflection on betrayal, survival, and the unseen hand of Allah. Through hardship
   and hidden enemies, this piece explores the limits of human planning and the boundless reach of

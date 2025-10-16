@@ -1,7 +1,7 @@
 ---
 title: To a New Beginning
 pubDate: 2025-09-29T02:24:40Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Six days off, a fresh Astro build, and a clean slate for writing: better theming and layout
   control, first-class LaTeX, and the freedom to ship my own features—because I thought I could code

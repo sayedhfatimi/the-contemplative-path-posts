@@ -1,7 +1,7 @@
 ---
 title: 'Trading Big Bags: Liquidity, Leverage, and the Architecture of Risk'
 pubDate: 2025-09-17T14:10:11Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Capital size should dictate strategy. What works for a $1,000 trader becomes reckless at $10M. The
   recent $17M loss on Hyperliquid shows how fragile structures — high leverage, linear contracts,

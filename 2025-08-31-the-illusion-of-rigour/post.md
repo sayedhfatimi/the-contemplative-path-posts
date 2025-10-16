@@ -1,7 +1,7 @@
 ---
 title: The Illusion of Rigour
 pubDate: 2025-08-31T22:37:21Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   We trust science, law, and society for their apparent rigour — but beneath the surface lie hidden
   assumptions and convenient fictions mistaken for certainty. This essay explores how social

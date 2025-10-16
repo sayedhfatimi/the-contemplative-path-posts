@@ -1,7 +1,7 @@
 ---
 title: 'Strip-Mining the Empire: The Last Phase of American Capital'
 pubDate: 2025-05-01T05:04:18Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   The content describes the quiet decline of American empire characterized by exhaustion and
   extraction rather than growth. As ruling elites profit from this decay, they strategically prepare

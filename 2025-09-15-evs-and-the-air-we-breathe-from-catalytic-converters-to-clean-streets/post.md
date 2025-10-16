@@ -1,7 +1,7 @@
 ---
 title: 'EVs and the Air We Breathe: From Catalytic Converters to Clean Streets'
 pubDate: 2025-09-15T10:43:25Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   EVs are often criticised for their manufacturing footprint, but this misses the crucial point:
   they have no tailpipes. In cities like London, where millions of ICE cars exhale poison daily, EVs

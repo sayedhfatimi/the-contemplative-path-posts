@@ -1,7 +1,7 @@
 ---
 title: 'Why Most Must Lose: The Market and the Pareto Trap'
 pubDate: 2025-05-16T18:10:56Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Most traders enter the market chasing fairness and opportunity—but beneath the surface lies a
   harsh statistical truth: the structure itself demands imbalance. This blog post explores how the

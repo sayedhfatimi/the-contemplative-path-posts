@@ -1,7 +1,7 @@
 ---
 title: 'The Market’s Blindfold: Understanding Dark Pools, Hidden Venues, and Information Asymmetry'
 pubDate: 2025-08-19T09:16:35Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   The Understanding Market Mechanics series closes with the blindfold — the final veil that hides as
   much as it reveals. Markets are not neutral or transparent, but choreographed theatres of

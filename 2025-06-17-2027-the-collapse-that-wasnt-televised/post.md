@@ -1,7 +1,7 @@
 ---
 title: '2027: The Collapse That Wasn’t Televised'
 pubDate: 2025-06-17T22:29:41Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   The Israeli state may not survive the decade — not by invasion, but by the slow collapse of
   legitimacy, narrative, and power. As Palestine rises and the world rebalances, we are not

@@ -1,7 +1,7 @@
 ---
 title: The Weight We Choose
 pubDate: 2025-10-16T00:19:00Z
-updatedDate: 2025-10-16T00:27:50Z
+updatedDate: 2025-10-16T10:42:52Z
 excerpt: "Responsibility is not a cage but a frame: the weight we consciously choose to carry shapes character, gives freedom direction, and turns endurance into purpose."
 cover: ./cover.png
 coverAlt: Abstract figure lifting an arching beam—symbol of chosen responsibility and inner strength.

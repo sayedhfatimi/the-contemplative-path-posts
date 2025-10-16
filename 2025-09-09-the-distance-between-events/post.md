@@ -1,7 +1,7 @@
 ---
 title: The Distance Between Events
 pubDate: 2025-09-09T17:16:40Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   If time is not a river or a dimension but only the distance between events, what then becomes of
   us? Is a life measured by years, or by the density of change it contains? This essay traces the

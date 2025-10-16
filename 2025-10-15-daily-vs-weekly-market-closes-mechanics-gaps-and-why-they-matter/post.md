@@ -1,12 +1,13 @@
 ---
 title: "Daily vs Weekly Market Closes: Mechanics, Gaps, and Why They Matter"
 pubDate: 2025-10-15T14:08:43Z
-updatedDate: 2025-10-15T15:14:08Z
+updatedDate: 2025-10-16T10:42:52Z
 excerpt: >-
   The “close” is a mechanism, not just a timestamp. This essay explains how daily and weekly closes differ in auction/settlement, liquidity, and halt structure—why that creates gaps, and how those gaps behave across futures, FX, and crypto.
 cover: ./cover.png
 coverAlt: "Abstract dark-teal market graphic with a glowing orange ring, a stepped price line, and a sweeping ribbon—evoking flow, liquidity, and weekend gaps."
 author: sayed-hamid-fatimi
+featured: true
 categories:
   - economy-and-finance
 tags:
@@ -26,7 +27,6 @@ tags:
   - backtesting
   - fx-fix
   - crypto-24-7
-featured: true
 
 canonical: https://sayedhfatimi.blog/2025/10/15/daily-vs-weekly-market-closes-mechanics-gaps-and-why-they-matter/
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Foundations Before Towers: On First Principles, Lemmas, and the Architecture of Thought"
 pubDate: 2025-10-01T23:46:00Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:52Z
 excerpt: >
   Beneath every grand theory lies a quiet lattice of first principles and lemmas. This essay explores the bedrock and bridges of reasoning—and why inhabiting a school’s foundations matters more than memorising its slogans.
 cover: ./cover.png

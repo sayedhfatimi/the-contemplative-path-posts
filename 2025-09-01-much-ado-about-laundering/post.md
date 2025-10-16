@@ -1,7 +1,7 @@
 ---
 title: Much Ado About Laundering
 pubDate: 2025-09-01T13:53:52Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Wars are not only fought on battlefields but in balance sheets. From Lockheed Martin’s rising
   stock to British Gas’s soaring profits and offshore billions siphoned by corrupt aides, conflict

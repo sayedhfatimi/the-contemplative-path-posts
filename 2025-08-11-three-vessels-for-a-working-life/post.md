@@ -1,7 +1,7 @@
 ---
 title: Three Vessels for a Working Life
 pubDate: 2025-08-11T06:20:13Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Most people are taught to work for money, but not to make it work for them. For new investors with
   modest means, building wealth is less about chasing quick wins and more about choosing the right

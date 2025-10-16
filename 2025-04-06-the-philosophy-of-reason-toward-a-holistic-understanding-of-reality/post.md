@@ -1,7 +1,7 @@
 ---
 title: 'The Philosophy of Reason: Toward a Holistic Understanding of Reality'
 pubDate: 2025-04-06T09:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   In an age of rapid change, growing complexity, and endless noise, we often take for granted the
   very faculty that allows us to navigate it all: reason. But what is reason, really? How does it

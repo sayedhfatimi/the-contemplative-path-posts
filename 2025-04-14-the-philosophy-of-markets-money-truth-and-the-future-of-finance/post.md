@@ -1,7 +1,7 @@
 ---
 title: 'The Philosophy of Markets: Money, Truth, and the Future of Finance'
 pubDate: 2025-04-14T09:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   Sayed Hamid Fatimi's "The Philosophy of Markets" challenges conventional views on trading,
   suggesting that markets are not neutral but adversarial systems that exploit predictability and

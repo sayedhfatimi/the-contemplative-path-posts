@@ -1,7 +1,7 @@
 ---
 title: 'Where the Masks Slip: On Solitude, Autism, and the Discomfort of Discrepancy'
 pubDate: 2025-05-30T04:14:49Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   In a world that rewards contradiction and curated personas, those of us who seek coherence between
   thought, word, and action often find ourselves alone. This reflection explores the tension between

@@ -1,7 +1,7 @@
 ---
 title: 'The Invisible Balance: Understanding Pareto Efficiency, Markets, and the Zero-Sum Game'
 pubDate: 2025-08-15T03:19:39Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   In markets, the 80/20 rule is more than a cliché—it’s the operating system. Pareto efficiency
   ensures that once an edge becomes visible, it disappears. The zero-sum nature of trading means

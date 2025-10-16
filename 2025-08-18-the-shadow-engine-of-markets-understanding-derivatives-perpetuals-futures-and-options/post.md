@@ -1,7 +1,7 @@
 ---
 title: 'The Shadow Engine of Markets: Understanding Derivatives, Perpetuals, Futures, and Options'
 pubDate: 2025-08-17T23:19:10Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Derivatives are not mere side bets. They are the shadow engine of markets — the hidden machinery
   of futures, perps, options, and ETFs that reshapes liquidity, andlifies risk, and choreographs

@@ -1,7 +1,7 @@
 ---
 title: 'Traffic Blocks, Self-Driving Cars, and the Case for Road Beacons'
 pubDate: 2025-08-25T21:49:17Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Traffic is not random—it is the product of inflow and outflow. When more cars enter a road segment
   than leave it, congestion forms. What lingers, however, is not just the incident itself but the

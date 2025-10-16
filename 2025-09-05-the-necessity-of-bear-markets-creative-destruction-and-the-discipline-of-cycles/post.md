@@ -1,7 +1,7 @@
 ---
 title: 'The Necessity of Bear Markets: Creative Destruction and the Discipline of Cycles'
 pubDate: 2025-09-05T16:38:09Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Bear markets and recessions are not failures of the system but essential corrections that restore
   discipline, clear away excess, and redirect capital toward true innovation. While modern policy

@@ -1,7 +1,7 @@
 ---
 title: 'The Depths of the Market: Understanding Liquidity and the Order Book'
 pubDate: 2025-08-16T08:33:43Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   In this third entry of the Understanding Market Mechanics series, we move beneath the surface of
   charts and candles into the bloodstream of the market itself: liquidity. From stop runs and

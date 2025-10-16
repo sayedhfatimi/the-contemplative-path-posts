@@ -1,12 +1,16 @@
 ---
 title: "From Wonder to Natural Philosophy"
 pubDate: 2025-10-03T15:12:00Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:52Z
 excerpt: >
   Before physics was an equation, it was a question. This essay traces its roots—from myth and wonder to natural philosophy—as humanity’s first attempt to read the book of nature.
 cover: ./cover.png
 coverAlt: "Abstract, star-dotted night with faint geometric orbits—pre-scientific inquiry."
 author: sayed-hamid-fatimi
+series:
+  slug: physics-for-beginners
+  title: Physics for Beginners
+  part: 1
 categories:
   - philosophy
   - science-and-technology
@@ -44,10 +48,6 @@ tags:
   - library-of-alexandria
   - language-and-thought
   - foundations-of-knowledge
-series:
-  slug: physics-for-beginners
-  title: Physics for Beginners
-  part: 1
 canonical: https://sayedhfatimi.blog/2025/10/03/from-wonder-to-natural-philosophy/
 ---
 

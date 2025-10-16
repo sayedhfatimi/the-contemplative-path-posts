@@ -1,7 +1,7 @@
 ---
 title: 'The Eight Axioms of Reason: A Framework for Thinking in a Fractured World'
 pubDate: 2025-04-10T09:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   In an age of accelerating complexity and digital noise, reason can feel both urgent and elusive.
   We live in a world that talks constantly—yet thinks rarely. A world obsessed with being right, but

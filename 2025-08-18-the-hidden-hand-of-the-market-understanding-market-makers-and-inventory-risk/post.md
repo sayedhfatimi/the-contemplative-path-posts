@@ -1,7 +1,7 @@
 ---
 title: 'The Hidden Hand of the Market: Understanding Market Makers and Inventory Risk'
 pubDate: 2025-08-18T20:12:18Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Market makers are often described as neutral referees — silent guardians of liquidity. But
   neutrality is an illusion. This essay explores spreads, inventory balancing, OTC desks, adverse

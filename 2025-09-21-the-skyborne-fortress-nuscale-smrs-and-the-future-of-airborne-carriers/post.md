@@ -1,7 +1,7 @@
 ---
 title: 'The Skyborne Fortress: NuScale SMRs and the Future of Airborne Carriers'
 pubDate: 2025-09-21T10:10:27Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   NuScale’s small modular reactors promise more than clean, modular power on the ground—they hint at
   a future of airborne carriers the size of stadiums, loitering in the skies for months at a time.

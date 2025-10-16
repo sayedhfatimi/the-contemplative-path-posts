@@ -1,7 +1,7 @@
 ---
 title: 'The Inheritance of Shadows: Epigenetics, Trauma, and the Choice of Renewal'
 pubDate: 2025-09-14T07:00:16Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Epigenetics shows that we inherit more than DNA—we carry the echoes of our ancestors’ trauma,
   hunger, and resilience written into our biology. These epigenetic marks, passed across two to

@@ -1,7 +1,7 @@
 ---
 title: 'Debt Before Value: The Double-Edged Sword of Creation Through Credit'
 pubDate: 2025-05-26T03:00:00Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Debt can be the spark that ignites creation—or the accelerant that fuels collapse. In its best
   form, it precedes value. In its worst, it replaces it.

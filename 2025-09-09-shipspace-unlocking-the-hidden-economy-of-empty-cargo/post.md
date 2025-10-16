@@ -1,7 +1,7 @@
 ---
 title: 'ShipSpace: Unlocking the Hidden Economy of Empty Cargo'
 pubDate: 2025-09-09T04:24:17Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Every year, millions of containers sail half-empty—wasting money, space, and fuel. ShipSpace
   reimagines global logistics as a shared marketplace, matching unused container capacity with

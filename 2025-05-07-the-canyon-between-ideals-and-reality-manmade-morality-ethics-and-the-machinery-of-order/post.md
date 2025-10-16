@@ -1,7 +1,7 @@
 ---
 title: 'The Canyon Between Ideals and Reality: Manmade Morality, Ethics, and the Machinery of Order'
 pubDate: 2025-05-07T10:47:02Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   There is a vast and often invisible canyon between the ethical ideals we claim to uphold and the
   lived reality of power, law, and social order. This post explores how our morals, ethics, and

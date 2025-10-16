@@ -1,7 +1,7 @@
 ---
 title: The Death of the Dollar and the Rise of the Corporate State
 pubDate: 2025-04-18T15:07:56Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   "The dollar's decline is a strategic shift rather than mismanagement, marking a transition from a"
   gold-backed system to one lacking intrinsic value. As this occurs, corporate power rises to fill

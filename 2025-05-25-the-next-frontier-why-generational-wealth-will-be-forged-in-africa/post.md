@@ -1,7 +1,7 @@
 ---
 title: 'The Next Frontier: Why Generational Wealth Will Be Forged in Africa'
 pubDate: 2025-05-25T20:47:52Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Africa is not the next frontier — it’s the current one. As global power shifts and traditional
   markets plateau, the key to generational wealth lies in Africa’s untapped potential. From

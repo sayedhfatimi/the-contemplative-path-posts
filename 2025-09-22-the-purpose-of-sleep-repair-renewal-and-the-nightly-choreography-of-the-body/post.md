@@ -1,7 +1,7 @@
 ---
 title: 'The Purpose of Sleep: Repair, Renewal, and the Nightly Choreography of the Body'
 pubDate: 2025-09-22T00:30:49Z
-updatedDate: 2025-10-10T16:21:27Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Sleep isn’t passive—it’s nightly maintenance. Slow-wave and REM rebuild muscle and connective
   tissue, balance hormones, and flush daytime metabolic waste via the glymphatic system to restore

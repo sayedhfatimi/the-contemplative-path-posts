@@ -1,7 +1,7 @@
 ---
 title: 'How Many Trees Make a Forest? Truth, Relativity, and the Blurred Lines of Perception'
 pubDate: 2025-08-23T22:38:40Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   How many trees make a forest? This essay explores the blurred lines between subjectivity and
   objectivity, the relativity of perception, and the thresholds created by language. From forests to

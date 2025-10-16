@@ -1,7 +1,7 @@
 ---
 title: 'The Illusion of Democracy: The Choreography of Choice'
 pubDate: 2025-04-27T02:18:53Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:54Z
 excerpt: >-
   Modern democracy promises freedom, but delivers carefully engineered illusions of choice. Behind
   the rituals of voting and protest, true power remains untouched — hidden in the structures we are

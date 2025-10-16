@@ -1,7 +1,7 @@
 ---
 title: 'The Velvet Claw: Toward a Post-Institutional Meritocracy'
 pubDate: 2025-06-04T07:33:47Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   The claw of power may never vanish. But if wrapped in velvet—wielded with wisdom, chosen with
   care—it may no longer wound, but shape. A better world doesn’t begin by abolishing power, but by

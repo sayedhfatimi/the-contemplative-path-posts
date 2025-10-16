@@ -1,7 +1,7 @@
 ---
 title: 'Investing vs. Trading: Two Paths Through the Market'
 pubDate: 2025-09-19T16:21:04Z
-updatedDate: 2025-10-10T16:21:28Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   Investing and trading aren’t opposites so much as different relationships to time. This guide
   clarifies frames—from scalping to position trading—and argues that most edge is born in ranges,

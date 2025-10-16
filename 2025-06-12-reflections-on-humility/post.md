@@ -1,7 +1,7 @@
 ---
 title: Reflections on Humility
 pubDate: 2025-06-12T21:48:54Z
-updatedDate: 2025-10-10T16:21:29Z
+updatedDate: 2025-10-16T10:42:53Z
 excerpt: >-
   A reflection on the tension between humility and hidden power—this piece explores the quiet
   strength of being underestimated, the dangers of overconfidence, and the subtle warfare of
