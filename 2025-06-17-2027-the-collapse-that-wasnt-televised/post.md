@@ -14,7 +14,6 @@ categories:
   - philosophy
   - sociology-and-politics
 tags:
-  - 2027
   - collapse
   - decolonial-future
   - eastern-nations
