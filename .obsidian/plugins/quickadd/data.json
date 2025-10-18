@@ -19,6 +19,50 @@
           }
         ]
       }
+    },
+    {
+      "id": "0bf7df2f-3bd7-4297-ba4f-b480210b016e",
+      "name": "Slugify frontmatter tags - Vault",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Slugify frontmatter tags - Vault",
+        "id": "9e61b11b-1c56-4d7e-bdb1-1216ffa7e8a7",
+        "commands": [
+          {
+            "name": "slugifyFrontmatterTags",
+            "type": "UserScript",
+            "id": "6d4f44e4-9664-4194-be42-381472e7461b",
+            "path": "_scripts/slugifyFrontmatterTags.js",
+            "settings": {
+              "scope": "Vault"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "id": "6defeb22-5e10-4167-abe5-f64b38e84fd4",
+      "name": "Slugify frontmatter tags - Current file",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Slugify frontmatter tags - Current file",
+        "id": "5d7e1070-9d60-458d-ad47-acf975a3f89d",
+        "commands": [
+          {
+            "name": "slugifyFrontmatterTags",
+            "type": "UserScript",
+            "id": "94afd51a-de78-4c4c-aa1e-85ad2084bfcc",
+            "path": "_scripts/slugifyFrontmatterTags.js",
+            "settings": {
+              "scope": "Current file"
+            }
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

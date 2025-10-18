@@ -1,7 +1,7 @@
 ---
 title: 'The Ego and the Soul: A Philosophical Exploration Through the Islamic Lens'
 pubDate: 2025-04-06T09:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   In every human being, there exists a tension — between what desires and what discerns, between
   what clings and what surrenders. This inner divide is the site of life’s greatest struggle: the
@@ -16,24 +16,24 @@ categories:
   - religion-and-spirituality
   - philosophy
 tags:
-  - Dhikr
-  - Ego
-  - Islamic Philosophy
-  - Khalwah
-  - Mujāhadah
-  - Murāqabah
-  - Nafs
-  - Niyyah
-  - Quranic Teachings
-  - Ruh
-  - Self-Development
-  - Soul
-  - Spiritual Psychology
-  - Sufism
-  - Suhbah
-  - Taḥallī
-  - Takhallī
-  - Tawbah
+  - dhikr
+  - ego
+  - islamic-philosophy
+  - khalwah
+  - mujahadah
+  - muraqabah
+  - nafs
+  - niyyah
+  - quranic-teachings
+  - ruh
+  - self-development
+  - soul
+  - spiritual-psychology
+  - sufism
+  - suhbah
+  - tahalli
+  - takhalli
+  - tawbah
 
 canonical: https://sayedhfatimi.blog/2025/04/06/the-ego-and-the-soul-a-philosophical-exploration-through-the-islamic-lens/
 ---

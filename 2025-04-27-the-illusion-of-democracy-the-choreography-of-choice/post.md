@@ -1,7 +1,7 @@
 ---
 title: 'The Illusion of Democracy: The Choreography of Choice'
 pubDate: 2025-04-27T02:18:53Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Modern democracy promises freedom, but delivers carefully engineered illusions of choice. Behind
   the rituals of voting and protest, true power remains untouched — hidden in the structures we are
@@ -15,21 +15,21 @@ categories:
   - philosophy
   - sociology-and-politics
 tags:
-  - Beyond Kings and Thrones
+  - beyond-kings-and-thrones
   - democracy
-  - engineered consent
-  - freedom and power
-  - illusion of choice
-  - manufactured consent
-  - markets and power
-  - media control
-  - modern democracy
-  - philosophy of power
-  - political awakening
-  - political philosophy
+  - engineered-consent
+  - freedom-and-power
+  - illusion-of-choice
+  - manufactured-consent
+  - markets-and-power
+  - media-control
+  - modern-democracy
+  - philosophy-of-power
+  - political-awakening
+  - political-philosophy
   - sovereignty
-  - systemic illusion
-  - the contemplative path
+  - systemic-illusion
+  - the-contemplative-path
 
 canonical: https://sayedhfatimi.blog/2025/04/27/the-illusion-of-democracy-the-choreography-of-choice/
 ---

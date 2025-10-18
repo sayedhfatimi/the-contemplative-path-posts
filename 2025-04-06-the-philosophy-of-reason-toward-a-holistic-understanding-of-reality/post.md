@@ -1,7 +1,7 @@
 ---
 title: 'The Philosophy of Reason: Toward a Holistic Understanding of Reality'
 pubDate: 2025-04-06T09:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   In an age of rapid change, growing complexity, and endless noise, we often take for granted the
   very faculty that allows us to navigate it all: reason. But what is reason, really? How does it
@@ -14,21 +14,21 @@ author: sayed-hamid-fatimi
 categories:
   - philosophy
 tags:
-  - Cognitive Faculties
-  - Consciousness
-  - Emotion
-  - Enlightenment
-  - Epistemology
-  - Holistic Understanding
-  - Human Cognition
-  - Human Experience
-  - Intuition
-  - Knowledge Integration
-  - Moral Philosophy
-  - Philosophy
-  - Rationalism
-  - Reason
-  - Spirituality
+  - cognitive-faculties
+  - consciousness
+  - emotion
+  - enlightenment
+  - epistemology
+  - holistic-understanding
+  - human-cognition
+  - human-experience
+  - intuition
+  - knowledge-integration
+  - moral-philosophy
+  - philosophy
+  - rationalism
+  - reason
+  - spirituality
 
 canonical: https://sayedhfatimi.blog/2025/04/06/the-philosophy-of-reason-toward-a-holistic-understanding-of-reality/
 ---

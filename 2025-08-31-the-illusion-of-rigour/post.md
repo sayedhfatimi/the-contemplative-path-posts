@@ -1,7 +1,7 @@
 ---
 title: The Illusion of Rigour
 pubDate: 2025-08-31T22:37:21Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   We trust science, law, and society for their apparent rigour — but beneath the surface lie hidden
   assumptions and convenient fictions mistaken for certainty. This essay explores how social
@@ -16,27 +16,27 @@ categories:
   - philosophy
   - literature
 tags:
-  - courtroom assumptions
+  - courtroom-assumptions
   - discernment
-  - epistemic humility
-  - Epistemology
-  - fallibility of systems
-  - hidden assumptions
-  - human knowledge limits
-  - illusion of certainty
-  - illusion of rigour
-  - medical diagnosis philosophy
-  - philosophy of law
-  - Philosophy of Science
+  - epistemic-humility
+  - epistemology
+  - fallibility-of-systems
+  - hidden-assumptions
+  - human-knowledge-limits
+  - illusion-of-certainty
+  - illusion-of-rigour
+  - medical-diagnosis-philosophy
+  - philosophy-of-law
+  - philosophy-of-science
   - pre-judgment
-  - provisional knowledge
-  - scaffolding and truth
-  - scaffolding vs stone
-  - scientific metaphors
-  - social apriories
-  - social prejudice
-  - truth and illusion
-  - useful fictions
+  - provisional-knowledge
+  - scaffolding-and-truth
+  - scaffolding-vs-stone
+  - scientific-metaphors
+  - social-apriories
+  - social-prejudice
+  - truth-and-illusion
+  - useful-fictions
 
 canonical: https://sayedhfatimi.blog/2025/08/31/the-illusion-of-rigour/
 ---

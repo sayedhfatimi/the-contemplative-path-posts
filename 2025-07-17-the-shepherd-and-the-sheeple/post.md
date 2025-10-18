@@ -1,7 +1,7 @@
 ---
 title: The Shepherd and The Sheeple
 pubDate: 2025-07-17T21:34:22Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   From the outside, American democracy looks less like a system of the people and more like a
   well-staged illusion. With Trump back in office and the machinery of power unchanged, the illusion
@@ -13,26 +13,26 @@ author: sayed-hamid-fatimi
 categories:
   - sociology-and-politics
 tags:
-  - American politics
+  - american-politics
   - authoritarianism
-  - Biden
+  - biden
   - democracy
-  - democracy illusion
-  - dystopian politics
-  - election fraud
-  - freedom illusion
-  - global politics
-  - government control
-  - media manipulation
-  - political critique
-  - political disillusionment
-  - political satire
-  - political spectacle
-  - political system failure
-  - social commentary
+  - democracy-illusion
+  - dystopian-politics
+  - election-fraud
+  - freedom-illusion
+  - global-politics
+  - government-control
+  - media-manipulation
+  - political-critique
+  - political-disillusionment
+  - political-satire
+  - political-spectacle
+  - political-system-failure
+  - social-commentary
   - technocracy
-  - Trump
-  - US decline
+  - trump
+  - us-decline
 
 canonical: https://sayedhfatimi.blog/2025/07/17/the-shepherd-and-the-sheeple/
 ---

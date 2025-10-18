@@ -1,7 +1,7 @@
 ---
 title: 'The Unity of Knowledge: Bridging the Divide Between Science, Philosophy, Religion, and the Unseen'
 pubDate: 2025-04-06T09:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Introduction — The Quest for Truth For centuries, humanity has searched for the ultimate truth
   behind existence, consciousness, and the universe. This search spans across diverse disciplines —
@@ -16,21 +16,21 @@ categories:
   - philosophy
   - science-and-technology
 tags:
-  - Al-Ghayb
-  - Consciousness
-  - Dark Matter
-  - Empiricism
-  - Enlightenment
-  - Faith and Reason
-  - Holistic Understanding
-  - Interdisciplinary Studies
-  - Materialism
-  - Philosophy
-  - Quantum Mechanics
-  - Religion
-  - Science
-  - Spirituality
-  - Unseen
+  - al-ghayb
+  - consciousness
+  - dark-matter
+  - empiricism
+  - enlightenment
+  - faith-and-reason
+  - holistic-understanding
+  - interdisciplinary-studies
+  - materialism
+  - philosophy
+  - quantum-mechanics
+  - religion
+  - science
+  - spirituality
+  - unseen
 
 canonical: https://sayedhfatimi.blog/2025/04/06/the-unity-of-knowledge-bridging-the-divide-between-science-philosophy-religion-and-the-unseen/
 ---

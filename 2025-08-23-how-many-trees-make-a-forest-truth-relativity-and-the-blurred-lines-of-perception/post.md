@@ -1,7 +1,7 @@
 ---
 title: 'How Many Trees Make a Forest? Truth, Relativity, and the Blurred Lines of Perception'
 pubDate: 2025-08-23T22:38:40Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   How many trees make a forest? This essay explores the blurred lines between subjectivity and
   objectivity, the relativity of perception, and the thresholds created by language. From forests to
@@ -17,32 +17,32 @@ categories:
   - mind-and-psychology
   - religion-and-spirituality
 tags:
-  - blurred lines
-  - Buber
+  - blurred-lines
+  - buber
   - categories
-  - cognitive psychology
-  - Derrida
-  - Epistemology
+  - cognitive-psychology
+  - derrida
+  - epistemology
   - ethics
   - fairness
-  - forest metaphor
-  - Foucault
+  - forest-metaphor
+  - foucault
   - justice
-  - language and meaning
-  - neuroscience of perception
+  - language-and-meaning
+  - neuroscience-of-perception
   - objectivity
   - perception
   - phenomenology
-  - Philosophy
-  - philosophy of language
-  - philosophy of mind
+  - philosophy
+  - philosophy-of-language
+  - philosophy-of-mind
   - politics
   - poverty
   - relativity
   - subjectivity
   - thresholds
-  - Truth
-  - Wittgenstein
+  - truth
+  - wittgenstein
 
 canonical: https://sayedhfatimi.blog/2025/08/23/how-many-trees-make-a-forest-truth-relativity-and-the-blurred-lines-of-perception/
 ---

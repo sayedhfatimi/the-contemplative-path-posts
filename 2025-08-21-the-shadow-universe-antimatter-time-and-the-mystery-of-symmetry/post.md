@@ -1,7 +1,7 @@
 ---
 title: 'The Shadow Universe: Antimatter, Time, and the Mystery of Symmetry'
 pubDate: 2025-08-21T13:17:16Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Why does our universe exist in matter, when physics tells us it should have been born in perfect
   balance with antimatter? From CPT symmetry to Feynman’s vision of particles moving backward in
@@ -19,47 +19,47 @@ categories:
   - science-and-technology
 tags:
   - antimatter
-  - arrow of time
-  - baryon asymmetry
-  - big bang
-  - black holes
+  - arrow-of-time
+  - baryon-asymmetry
+  - big-bang
+  - black-holes
   - causality
-  - cosmic mystery
-  - cosmic paradox
+  - cosmic-mystery
+  - cosmic-paradox
   - cosmology
-  - CPT symmetry
+  - cpt-symmetry
   - creation
   - entropy
   - existence
-  - Feynman diagrams
-  - fundamental physics
-  - general relativity
-  - hidden dimensions
-  - imaginary time
+  - feynman-diagrams
+  - fundamental-physics
+  - general-relativity
+  - hidden-dimensions
+  - imaginary-time
   - information
   - matter
-  - matter dominance
-  - metaphysics of time
+  - matter-dominance
+  - metaphysics-of-time
   - multiverse
-  - origin of the universe
-  - parallel universes
-  - particle physics
-  - Penrose diagrams
-  - philosophy of physics
-  - Philosophy of Science
+  - origin-of-the-universe
+  - parallel-universes
+  - particle-physics
+  - penrose-diagrams
+  - philosophy-of-physics
+  - philosophy-of-science
   - physics
-  - quantum field theory
+  - quantum-field-theory
   - relativity
-  - shadow universe
+  - shadow-universe
   - spacetime
-  - Stephen Hawking
+  - stephen-hawking
   - symmetry
-  - symmetry breaking
+  - symmetry-breaking
   - time
-  - time travel
-  - twin universe
+  - time-travel
+  - twin-universe
   - universes
-  - why something rather than nothing
+  - why-something-rather-than-nothing
 
 canonical: https://sayedhfatimi.blog/2025/08/21/the-shadow-universe-antimatter-time-and-the-mystery-of-symmetry/
 ---

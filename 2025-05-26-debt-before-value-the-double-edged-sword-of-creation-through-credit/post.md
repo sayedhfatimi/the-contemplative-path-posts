@@ -1,7 +1,7 @@
 ---
 title: 'Debt Before Value: The Double-Edged Sword of Creation Through Credit'
 pubDate: 2025-05-26T03:00:00Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Debt can be the spark that ignites creation—or the accelerant that fuels collapse. In its best
   form, it precedes value. In its worst, it replaces it.
@@ -13,21 +13,21 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - asset inflation
-  - central banks
-  - credit systems
+  - asset-inflation
+  - central-banks
+  - credit-systems
   - currency
   - debt
-  - economic philosophy
+  - economic-philosophy
   - economics
-  - fiat money
-  - financial collapse
-  - financial trust
+  - fiat-money
+  - financial-collapse
+  - financial-trust
   - inflation
   - macroeconomics
-  - monetary policy
-  - speculative markets
-  - value creation
+  - monetary-policy
+  - speculative-markets
+  - value-creation
 
 canonical: https://sayedhfatimi.blog/2025/05/26/debt-before-value-the-double-edged-sword-of-creation-through-credit/
 ---

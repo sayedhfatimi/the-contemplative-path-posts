@@ -1,7 +1,7 @@
 ---
 title: 'Strip-Mining the Empire: The Last Phase of American Capital'
 pubDate: 2025-05-01T05:04:18Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   The content describes the quiet decline of American empire characterized by exhaustion and
   extraction rather than growth. As ruling elites profit from this decay, they strategically prepare
@@ -16,21 +16,21 @@ categories:
   - sociology-and-politics
   - philosophy
 tags:
-  - american decline
+  - american-decline
   - collapse
   - de-dollarization
-  - dollar hegemony
-  - economic crisis
+  - dollar-hegemony
+  - economic-crisis
   - empire
-  - financial collapse
-  - global shift
+  - financial-collapse
+  - global-shift
   - inequality
-  - late-stage capitalism
-  - political decay
-  - ruling class
+  - late-stage-capitalism
+  - political-decay
+  - ruling-class
   - strip-mining
-  - systemic failure
-  - wealth extraction
+  - systemic-failure
+  - wealth-extraction
 
 canonical: https://sayedhfatimi.blog/2025/05/01/strip-mining-the-empire-the-last-phase-of-american-capital/
 ---

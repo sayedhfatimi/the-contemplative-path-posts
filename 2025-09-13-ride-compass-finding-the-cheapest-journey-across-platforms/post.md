@@ -1,7 +1,7 @@
 ---
 title: 'RideCompass: Finding the Cheapest Journey Across Platforms'
 pubDate: 2025-09-13T21:55:18Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Finding the cheapest ride in London isn’t as simple as picking one app. Prices fluctuate across
   Uber, Bolt, FreeNow, Smartzee—and even black cabs. Drawing from my time as a driver, I explore the
@@ -17,18 +17,18 @@ series:
 categories:
   - science-and-technology
 tags:
-  - black cabs
+  - black-cabs
   - bolt
   - freenow
-  - ideas and opportunities
-  - london transport
-  - mobility innovation
-  - price comparison
-  - ride sharing
+  - ideas-and-opportunities
+  - london-transport
+  - mobility-innovation
+  - price-comparison
+  - ride-sharing
   - smartzee
-  - startup ideas
-  - taxi apps
-  - transport economics
+  - startup-ideas
+  - taxi-apps
+  - transport-economics
   - uber
 
 canonical: https://sayedhfatimi.blog/2025/09/13/ride-compass-finding-the-cheapest-journey-across-platforms/

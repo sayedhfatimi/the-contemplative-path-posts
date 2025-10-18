@@ -1,7 +1,7 @@
 ---
 title: 'The Cost of a Pulse: When Healthcare Becomes a Weapon'
 pubDate: 2025-07-31T16:34:35Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   When healing becomes a liability and prevention is unprofitable, what we call “healthcare” becomes
   something else entirely—a weapon of economic control. This piece explores the true cost of
@@ -14,20 +14,20 @@ categories:
   - sociology-and-politics
 tags:
   - capitalism
-  - economic justice
+  - economic-justice
   - ethics
   - healthcare
-  - healthcare reform
-  - human rights
+  - healthcare-reform
+  - human-rights
   - inequality
-  - modern slavery
-  - Moral Philosophy
+  - modern-slavery
+  - moral-philosophy
   - neoliberalism
-  - policy critique
+  - policy-critique
   - privatisation
-  - public health
-  - social justice
-  - structural violence
+  - public-health
+  - social-justice
+  - structural-violence
   - survival
 
 canonical: https://sayedhfatimi.blog/2025/07/31/the-cost-of-a-pulse-when-healthcare-becomes-a-weapon/

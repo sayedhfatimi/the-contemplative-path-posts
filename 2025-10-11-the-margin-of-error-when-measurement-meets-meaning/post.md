@@ -1,7 +1,7 @@
 ---
 title: "The Margin of Error: Precision, Uncertainty, and the Reliability of Data"
 pubDate: 2025-10-11T01:14:32Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:06Z
 excerpt: >-
   Measurement is never perfect. This essay explores how systematic and random errors shape what we can know, why replication and calibration matter, and how humility restores meaning to precision.
 cover: ./cover.png

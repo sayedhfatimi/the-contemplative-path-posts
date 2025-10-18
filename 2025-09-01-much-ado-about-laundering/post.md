@@ -1,7 +1,7 @@
 ---
 title: Much Ado About Laundering
 pubDate: 2025-09-01T13:53:52Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Wars are not only fought on battlefields but in balance sheets. From Lockheed Martin’s rising
   stock to British Gas’s soaring profits and offshore billions siphoned by corrupt aides, conflict
@@ -17,26 +17,26 @@ categories:
   - philosophy
   - sociology-and-politics
 tags:
-  - Beyond Kings and Thrones series
-  - British Gas profits
-  - commodity price manipulation
-  - corruption in war funding
-  - defense contractor profits
-  - electricity arbitrage Europe UK
-  - energy crisis UK
-  - fear as liquidity
-  - laundering legitimacy
-  - Lockheed Martin stock
-  - manufactured scarcity
-  - markets and war
-  - money laundering through war
-  - natural gas price spike
-  - political corruption
-  - Ukraine war corruption
-  - war and finance
-  - war economy analysis
-  - war profiteering
-  - Zelensky offshore accounts
+  - beyond-kings-and-thrones-series
+  - british-gas-profits
+  - commodity-price-manipulation
+  - corruption-in-war-funding
+  - defense-contractor-profits
+  - electricity-arbitrage-europe-uk
+  - energy-crisis-uk
+  - fear-as-liquidity
+  - laundering-legitimacy
+  - lockheed-martin-stock
+  - manufactured-scarcity
+  - markets-and-war
+  - money-laundering-through-war
+  - natural-gas-price-spike
+  - political-corruption
+  - ukraine-war-corruption
+  - war-and-finance
+  - war-economy-analysis
+  - war-profiteering
+  - zelensky-offshore-accounts
 
 canonical: https://sayedhfatimi.blog/2025/09/01/much-ado-about-laundering/
 ---

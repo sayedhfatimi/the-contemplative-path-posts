@@ -1,7 +1,7 @@
 ---
 title: What Is Truth? The Many Faces of Reality in Everyday Life
 pubDate: 2025-04-09T09:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   In a world where facts are debated, belief systems clash, and identities multiply, the question of
   truth is no longer a philosophical luxury—it’s a daily necessity. We often speak of truth as if
@@ -14,26 +14,26 @@ author: sayed-hamid-fatimi
 categories:
   - philosophy
 tags:
-  - Belief Systems
-  - Coherence Theory
-  - Constructivism
-  - Correspondence Theory
-  - Critical Thinking
-  - Epistemology
-  - Knowledge
-  - Media Literacy
-  - Objective Truth
-  - Performative Truth
-  - Personal Relationships
-  - Philosophy
-  - Philosophy of Science
-  - Politics and Truth
-  - Pragmatism
-  - Psychology of Belief
-  - Reality
-  - Religion and Philosophy
-  - Subjective Truth
-  - Truth
+  - belief-systems
+  - coherence-theory
+  - constructivism
+  - correspondence-theory
+  - critical-thinking
+  - epistemology
+  - knowledge
+  - media-literacy
+  - objective-truth
+  - performative-truth
+  - personal-relationships
+  - philosophy
+  - philosophy-of-science
+  - politics-and-truth
+  - pragmatism
+  - psychology-of-belief
+  - reality
+  - religion-and-philosophy
+  - subjective-truth
+  - truth
 
 canonical: https://sayedhfatimi.blog/2025/04/09/what-is-truth-the-many-faces-of-reality-in-everyday-life/
 ---

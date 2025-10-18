@@ -1,7 +1,7 @@
 ---
 title: "From Geometry to Experiment: Archimedes to Galileo"
 pubDate: 2025-10-16T09:55:03Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:06Z
 excerpt: |
   Physics turns wonder into practice: from Archimedes’ geometry and instruments to Galileo’s timing and idealisations, nature begins to speak in numbers we can test.
 cover: ./cover.png

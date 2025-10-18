@@ -1,7 +1,7 @@
 ---
 title: 'The Shadow Engine of Markets: Understanding Derivatives, Perpetuals, Futures, and Options'
 pubDate: 2025-08-17T23:19:10Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Derivatives are not mere side bets. They are the shadow engine of markets — the hidden machinery
   of futures, perps, options, and ETFs that reshapes liquidity, andlifies risk, and choreographs
@@ -24,32 +24,32 @@ tags:
   - contango
   - correlation
   - derivatives
-  - ETFs
-  - financial instruments
-  - financial markets explained
-  - flow-driven markets
-  - funding rates
+  - etfs
+  - financial-instruments
+  - financial-markets-explained
+  - flow-driven-markets
+  - funding-rates
   - futures
-  - gamma squeeze
+  - gamma-squeeze
   - hedging
-  - hidden mechanics
-  - index funds
+  - hidden-mechanics
+  - index-funds
   - leverage
-  - liquidation cascades
+  - liquidation-cascades
   - liquidity
-  - market structure
+  - market-structure
   - markets
   - options
-  - order book
-  - passive investing
-  - perpetual swaps
-  - price discovery
-  - secondary markets
-  - shadow engine
-  - systemic risk
-  - trading mechanics
+  - order-book
+  - passive-investing
+  - perpetual-swaps
+  - price-discovery
+  - secondary-markets
+  - shadow-engine
+  - systemic-risk
+  - trading-mechanics
   - volatility
-  - zero sum game
+  - zero-sum-game
 
 canonical: https://sayedhfatimi.blog/2025/08/18/the-shadow-engine-of-markets-understanding-derivatives-perpetuals-futures-and-options/
 ---

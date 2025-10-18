@@ -1,7 +1,7 @@
 ---
 title: "From Wonder to Natural Philosophy"
 pubDate: 2025-10-03T15:12:00Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >
   Before physics was an equation, it was a question. This essay traces its roots—from myth and wonder to natural philosophy—as humanity’s first attempt to read the book of nature.
 cover: ./cover.png

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f92444759a89e1a7",
+        "id": "74dd058b126580bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b03f5f818cfcac61",
+            "id": "7cc6dbcd01082245",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "b03f5f818cfcac61",
+  "active": "7cc6dbcd01082245",
   "lastOpenFiles": [
+    "2025-04-06-conjecture-on-jinn-physical-phenomena-mythology-and-religious-texts/post.md",
     "2025-10-16-from-geometry-to-experiment-archimedes-to-galileo/post.md",
     "2025-10-11-adfev-afdva-afva/post.md",
     "2025-10-11-adfev-afdva-afva",

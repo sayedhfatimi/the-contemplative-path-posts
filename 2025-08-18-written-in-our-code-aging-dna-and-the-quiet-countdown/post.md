@@ -1,7 +1,7 @@
 ---
 title: 'Written in Our Code: Aging, DNA, and the Quiet Countdown'
 pubDate: 2025-08-18T17:34:58Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Aging is not just skin deep—it is written into our very DNA. As telomeres shorten and proteins
   lose their shape, the body’s essential functions slowly unravel. Death is not an intruder but a
@@ -17,28 +17,28 @@ categories:
   - science-and-technology
 tags:
   - aging
-  - biological clock
-  - biology of death
-  - cell biology
-  - cellular aging
+  - biological-clock
+  - biology-of-death
+  - cell-biology
+  - cellular-aging
   - dna
-  - epigenetic markers
+  - epigenetic-markers
   - epigenetics
   - existentialism
-  - genetic countdown
-  - health and aging
-  - human condition
+  - genetic-countdown
+  - health-and-aging
+  - human-condition
   - inevitability
-  - life and death
-  - meaning of life
-  - molecular biology
+  - life-and-death
+  - meaning-of-life
+  - molecular-biology
   - mortality
-  - mortality and meaning
-  - Philosophy
-  - philosophy of biology
-  - protein misfolding
-  - protein structure
-  - science and philosophy
+  - mortality-and-meaning
+  - philosophy
+  - philosophy-of-biology
+  - protein-misfolding
+  - protein-structure
+  - science-and-philosophy
   - telomeres
 
 canonical: https://sayedhfatimi.blog/2025/08/18/written-in-our-code-aging-dna-and-the-quiet-countdown/

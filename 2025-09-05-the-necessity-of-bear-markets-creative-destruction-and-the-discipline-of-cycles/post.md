@@ -1,7 +1,7 @@
 ---
 title: 'The Necessity of Bear Markets: Creative Destruction and the Discipline of Cycles'
 pubDate: 2025-09-05T16:38:09Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Bear markets and recessions are not failures of the system but essential corrections that restore
   discipline, clear away excess, and redirect capital toward true innovation. While modern policy
@@ -16,21 +16,21 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - bear markets
-  - COVID economy
-  - creative destruction
-  - downturn opportunities
-  - economic policy
-  - economic renewal
-  - financial crises
+  - bear-markets
+  - covid-economy
+  - creative-destruction
+  - downturn-opportunities
+  - economic-policy
+  - economic-renewal
+  - financial-crises
   - innovation
-  - investment strategy
-  - long term investing
-  - market cycles
-  - market discipline
-  - Minsky hypothesis
+  - investment-strategy
+  - long-term-investing
+  - market-cycles
+  - market-discipline
+  - minsky-hypothesis
   - recessions
-  - Schumpeter
+  - schumpeter
 
 canonical: https://sayedhfatimi.blog/2025/09/05/the-necessity-of-bear-markets-creative-destruction-and-the-discipline-of-cycles/
 ---

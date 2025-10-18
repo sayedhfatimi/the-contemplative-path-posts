@@ -1,7 +1,7 @@
 ---
 title: "Daily vs Weekly Market Closes: Mechanics, Gaps, and Why They Matter"
 pubDate: 2025-10-15T14:08:43Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:06Z
 excerpt: >-
   The “close” is a mechanism, not just a timestamp. This essay explains how daily and weekly closes differ in auction/settlement, liquidity, and halt structure—why that creates gaps, and how those gaps behave across futures, FX, and crypto.
 cover: ./cover.png

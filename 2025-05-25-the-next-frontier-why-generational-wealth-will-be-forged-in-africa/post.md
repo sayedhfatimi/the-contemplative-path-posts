@@ -1,7 +1,7 @@
 ---
 title: 'The Next Frontier: Why Generational Wealth Will Be Forged in Africa'
 pubDate: 2025-05-25T20:47:52Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Africa is not the next frontier — it’s the current one. As global power shifts and traditional
   markets plateau, the key to generational wealth lies in Africa’s untapped potential. From
@@ -17,21 +17,21 @@ categories:
   - philosophy
   - sociology-and-politics
 tags:
-  - AfCFTA
-  - Africa
+  - afcfta
+  - africa
   - agriculture
-  - economic development
-  - emerging markets
-  - future of trade
-  - generational wealth
+  - economic-development
+  - emerging-markets
+  - future-of-trade
+  - generational-wealth
   - geopolitics
-  - global south
+  - global-south
   - infrastructure
-  - investment strategy
+  - investment-strategy
   - logistics
   - mining
-  - rare earth metals
-  - supply chains
+  - rare-earth-metals
+  - supply-chains
 
 canonical: https://sayedhfatimi.blog/2025/05/25/the-next-frontier-why-generational-wealth-will-be-forged-in-africa/
 ---

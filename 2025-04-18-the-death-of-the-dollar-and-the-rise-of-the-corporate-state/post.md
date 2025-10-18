@@ -1,7 +1,7 @@
 ---
 title: The Death of the Dollar and the Rise of the Corporate State
 pubDate: 2025-04-18T15:07:56Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   "The dollar's decline is a strategic shift rather than mismanagement, marking a transition from a"
   gold-backed system to one lacking intrinsic value. As this occurs, corporate power rises to fill
@@ -16,27 +16,27 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - Bitcoin
+  - bitcoin
   - capitalism
-  - corporate america
-  - digital currency
-  - dollar collapse
+  - corporate-america
+  - digital-currency
+  - dollar-collapse
   - dystopia
-  - economic philosophy
-  - economic shift
-  - financial control
-  - financial system
-  - gold standard
-  - institutional power
-  - Lucid Blur
-  - monetary policy
-  - orwellian future
+  - economic-philosophy
+  - economic-shift
+  - financial-control
+  - financial-system
+  - gold-standard
+  - institutional-power
+  - lucid-blur
+  - monetary-policy
+  - orwellian-future
   - post-democracy
-  - programmable money
-  - reserve currency
-  - Sayed Hamid Fatimi
-  - the lucid blur
-  - universal basic income
+  - programmable-money
+  - reserve-currency
+  - sayed-hamid-fatimi
+  - the-lucid-blur
+  - universal-basic-income
 
 canonical: https://sayedhfatimi.blog/2025/04/18/the-death-of-the-dollar-and-the-rise-of-the-corporate-state/
 ---

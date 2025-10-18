@@ -1,7 +1,7 @@
 ---
 title: 'Conjecture on Jinn: Physical Phenomena, Mythology, and Religious Texts'
 pubDate: 2025-04-06T09:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Introduction Within Islamic theology and broader mythological traditions, jinn are depicted as
   intelligent, volitional entities created from “smokeless fire” — a form distinct from both human
@@ -15,21 +15,21 @@ author: sayed-hamid-fatimi
 categories:
   - religion-and-spirituality
 tags:
-  - Consciousness
-  - Dark Matter
-  - Electromagnetic Spectrum
-  - Folklore
-  - Interdimensional Beings
-  - Islamic Theology
-  - Jinn
-  - Metaphysics
-  - Mythology
-  - Occult Sciences
-  - Parallel Dimensions
-  - Quantum Physics
-  - Religious Texts
-  - Spirituality
-  - Supernatural Phenomena
+  - consciousness
+  - dark-matter
+  - electromagnetic-spectrum
+  - folklore
+  - interdimensional-beings
+  - islamic-theology
+  - jinn
+  - metaphysics
+  - mythology
+  - occult-sciences
+  - parallel-dimensions
+  - quantum-physics
+  - religious-texts
+  - spirituality
+  - supernatural-phenomena
 
 canonical: https://sayedhfatimi.blog/2025/04/06/conjecture-on-jinn-physical-phenomena-mythology-and-religious-texts/
 ---

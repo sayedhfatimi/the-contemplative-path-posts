@@ -1,7 +1,7 @@
 ---
 title: The Veil Thins
 pubDate: 2025-07-31T05:18:13Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   The veil between worlds grows thin—not by prophecy or permission, but by consequence. Those who
   follow the path it reveals do so at their peril, for what lies beyond is neither good nor evil,
@@ -15,16 +15,16 @@ categories:
   - literature
   - philosophy
 tags:
-  - allegorical writing
-  - dark fantasy
-  - existential dread
-  - gothic prose
-  - liminal spaces
-  - metaphysical horror
-  - mythic fiction
-  - shadow beings
-  - spiritual transformation
-  - veil between worlds
+  - allegorical-writing
+  - dark-fantasy
+  - existential-dread
+  - gothic-prose
+  - liminal-spaces
+  - metaphysical-horror
+  - mythic-fiction
+  - shadow-beings
+  - spiritual-transformation
+  - veil-between-worlds
 
 canonical: https://sayedhfatimi.blog/2025/07/31/the-veil-thins/
 ---

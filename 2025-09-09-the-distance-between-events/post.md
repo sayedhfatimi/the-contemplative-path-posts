@@ -1,7 +1,7 @@
 ---
 title: The Distance Between Events
 pubDate: 2025-09-09T17:16:40Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   If time is not a river or a dimension but only the distance between events, what then becomes of
   us? Is a life measured by years, or by the density of change it contains? This essay traces the
@@ -20,20 +20,20 @@ categories:
   - science-and-technology
 tags:
   - antimatter
-  - arrow of time
+  - arrow-of-time
   - causality
-  - CPT symmetry
+  - cpt-symmetry
   - entropy
-  - memory and time
-  - Metaphysics
-  - perception of time
-  - philosophy of physics
-  - physics without time
-  - quantum gravity
+  - memory-and-time
+  - metaphysics
+  - perception-of-time
+  - philosophy-of-physics
+  - physics-without-time
+  - quantum-gravity
   - relativity
   - spacetime
   - time
-  - Wheeler–DeWitt equation
+  - wheeler-dewitt-equation
 
 canonical: https://sayedhfatimi.blog/2025/09/09/the-distance-between-events/
 ---

@@ -1,7 +1,7 @@
 ---
 title: "The Self-Fulfilling Prophecy: Psychology, Markets, and the Mechanics of Belief"
 pubDate: 2025-10-17T02:21:28Z
-updatedDate: 2025-10-17T02:32:13Z
+updatedDate: 2025-10-18T18:06:06Z
 excerpt: >-
   Markets, like minds, move not only on facts but on expectations. The self-fulfilling prophecy shows how shared beliefs turn into order flow, liquidity events, and ultimately the prices that seem to “confirm” those beliefs.
 cover: ./cover.png

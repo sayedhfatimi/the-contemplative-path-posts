@@ -1,7 +1,7 @@
 ---
 title: 'Trading Big Bags: Liquidity, Leverage, and the Architecture of Risk'
 pubDate: 2025-09-17T14:10:11Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Capital size should dictate strategy. What works for a $1,000 trader becomes reckless at $10M. The
   recent $17M loss on Hyperliquid shows how fragile structures — high leverage, linear contracts,
@@ -16,17 +16,17 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - Bitcoin
-  - capital efficiency
-  - crypto trading
+  - bitcoin
+  - capital-efficiency
+  - crypto-trading
   - hyperliquid
-  - inverse contracts
+  - inverse-contracts
   - leverage
   - liquidity
-  - market mechanics
-  - portfolio management
-  - risk management
-  - trading strategy
+  - market-mechanics
+  - portfolio-management
+  - risk-management
+  - trading-strategy
 
 canonical: https://sayedhfatimi.blog/2025/09/17/trading-big-bags-liquidity-leverage-and-the-architecture-of-risk/
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The End of the Key Fob: Digital Access for a Smarter Age'
 pubDate: 2025-09-10T17:25:19Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   A plastic fob once felt modern. Today, it is wasteful, clumsy, and obsolete. Digital passes stored
   in Apple or Google Wallets can make access smarter, safer, and more sustainable—from offices and
@@ -17,18 +17,18 @@ series:
 categories:
   - science-and-technology
 tags:
-  - access control
+  - access-control
   - airbnb
-  - apple wallet
-  - digital access
-  - google wallet
+  - apple-wallet
+  - digital-access
+  - google-wallet
   - hospitality
-  - key fobs
+  - key-fobs
   - nfc
-  - property management
-  - real estate
+  - property-management
+  - real-estate
   - security
-  - smart locks
+  - smart-locks
   - sustainability
   - technology
 

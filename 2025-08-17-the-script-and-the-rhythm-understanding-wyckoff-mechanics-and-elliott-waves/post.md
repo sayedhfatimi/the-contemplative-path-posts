@@ -1,7 +1,7 @@
 ---
 title: 'The Script and the Rhythm: Understanding Wyckoff Mechanics and Elliott Waves'
 pubDate: 2025-08-17T11:13:15Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   In markets, cycles are not random—they are patterned expansions and contractions shaped by
   accumulation, distribution, and the relentless hunt for liquidity. By weaving Wyckoff mechanics
@@ -22,20 +22,20 @@ categories:
 tags:
   - accumulation
   - contraction
-  - crypto markets
+  - crypto-markets
   - distribution
-  - Elliott Wave theory
+  - elliott-wave-theory
   - expansion
   - liquidity
-  - market cycles
-  - market mechanics
-  - market structure
-  - price discovery
-  - technical analysis
-  - trading psychology
+  - market-cycles
+  - market-mechanics
+  - market-structure
+  - price-discovery
+  - technical-analysis
+  - trading-psychology
   - volume
-  - wash trading
-  - Wyckoff method
+  - wash-trading
+  - wyckoff-method
 
 canonical: https://sayedhfatimi.blog/2025/08/17/the-script-and-the-rhythm-understanding-wyckoff-mechanics-and-elliott-waves/
 ---

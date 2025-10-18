@@ -1,7 +1,7 @@
 ---
 title: Reflections on Gratitude
 pubDate: 2025-10-13T15:22:25Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:06Z
 excerpt: A quiet meditation on the ordinary abundance—warm water, clean clothes, bread and eggs, a roof, work, and care—that hides in plain sight, and on gratitude as the ground of desire rather than its denial.
 cover: ./cover.png
 coverAlt: Glowing droplet with ripples over abstract house, faucet and cup, soap bar, and two eggs on a deep teal-to-gold background—an ode to everyday comforts and gratitude.

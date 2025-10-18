@@ -1,7 +1,7 @@
 ---
 title: 'The Stain on the Shirt: Perception, Passivity, and the Weight of Goodness'
 pubDate: 2025-09-06T17:25:47Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Evil does not overwhelm the world, yet a single act of cruelty can feel larger than life—like a
   stain on a white shirt. Goodness is the quiet backdrop of daily life, but it gains meaning only
@@ -17,20 +17,20 @@ categories:
   - literature
   - religion-and-spirituality
 tags:
-  - banality of evil
+  - banality-of-evil
   - dichotomy
-  - Edmund Burke
+  - edmund-burke
   - ethics
-  - free will
-  - good and evil
-  - good vs evil
-  - Hannah Arendt
-  - moral courage
-  - Moral Philosophy
-  - moral responsibility
-  - perception and responsibility
-  - philosophy of morality
-  - silence of the good
+  - free-will
+  - good-and-evil
+  - good-vs-evil
+  - hannah-arendt
+  - moral-courage
+  - moral-philosophy
+  - moral-responsibility
+  - perception-and-responsibility
+  - philosophy-of-morality
+  - silence-of-the-good
 
 canonical: https://sayedhfatimi.blog/2025/09/06/the-stain-on-the-shirt-perception-passivity-and-the-weight-of-goodness/
 ---

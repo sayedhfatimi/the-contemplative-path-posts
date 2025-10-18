@@ -1,7 +1,7 @@
 ---
 title: 'Healing Abandonment Wounds: From Trauma to Safety and Self-Compassion'
 pubDate: 2025-07-08T03:55:36Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Abandonment wounds run deep, shaping how we navigate love, trust, and safety. Through
   understanding trauma, conditions like BPD, and the power of compassionate healing, we can begin to
@@ -17,26 +17,26 @@ categories:
   - religion-and-spirituality
   - science-and-technology
 tags:
-  - abandonment wounds
-  - autism and relationships
-  - borderline personality disorder
-  - BPD
-  - childhood trauma
+  - abandonment-wounds
+  - autism-and-relationships
+  - borderline-personality-disorder
+  - bpd
+  - childhood-trauma
   - compassion
   - dissociation
-  - emotional regulation
-  - emotional safety
-  - emotional trauma
-  - emotional vulnerability
-  - healing trauma
-  - inner monologue
-  - mental health
-  - mental health awareness
-  - psychological healing
-  - relationship support
+  - emotional-regulation
+  - emotional-safety
+  - emotional-trauma
+  - emotional-vulnerability
+  - healing-trauma
+  - inner-monologue
+  - mental-health
+  - mental-health-awareness
+  - psychological-healing
+  - relationship-support
   - self-compassion
   - self-sabotage
-  - trauma healing
+  - trauma-healing
 
 canonical: https://sayedhfatimi.blog/2025/07/08/healing-abandonment-wounds-from-trauma-to-safety-and-self-compassion/
 ---

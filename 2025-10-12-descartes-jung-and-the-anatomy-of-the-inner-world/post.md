@@ -1,7 +1,7 @@
 ---
 title: "Descartes, Jung, and the Anatomy of the Inner World"
 pubDate: 2025-10-12T17:01:55Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:06Z
 excerpt: >-
   A critical comparison of Descartes’ rational foundationalism and Jung’s depth psychology—with Anthony Gottlieb’s skepticism as counterpoint—arguing for an integrated practice of self-knowledge that reunites clarity and depth.
 cover: ./cover.png

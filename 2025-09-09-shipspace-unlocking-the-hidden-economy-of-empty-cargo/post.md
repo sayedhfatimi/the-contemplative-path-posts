@@ -1,7 +1,7 @@
 ---
 title: 'ShipSpace: Unlocking the Hidden Economy of Empty Cargo'
 pubDate: 2025-09-09T04:24:17Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Every year, millions of containers sail half-empty—wasting money, space, and fuel. ShipSpace
   reimagines global logistics as a shared marketplace, matching unused container capacity with
@@ -18,19 +18,19 @@ categories:
   - science-and-technology
   - economy-and-finance
 tags:
-  - Alibaba
-  - Amazon FBA
+  - alibaba
+  - amazon-fba
   - cargo
   - freight
-  - green shipping
+  - green-shipping
   - innovation
   - logistics
   - shipping
-  - ShipSpace
+  - shipspace
   - startups
-  - supply chain
+  - supply-chain
   - sustainability
-  - Uber model
+  - uber-model
 
 canonical: https://sayedhfatimi.blog/2025/09/09/shipspace-unlocking-the-hidden-economy-of-empty-cargo/
 ---

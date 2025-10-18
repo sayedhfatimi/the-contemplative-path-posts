@@ -1,7 +1,7 @@
 ---
 title: 'The Depths of the Market: Understanding Liquidity and the Order Book'
 pubDate: 2025-08-16T08:33:43Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   In this third entry of the Understanding Market Mechanics series, we move beneath the surface of
   charts and candles into the bloodstream of the market itself: liquidity. From stop runs and
@@ -20,21 +20,21 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - fair value gaps
-  - financial markets
-  - iceberg orders
+  - fair-value-gaps
+  - financial-markets
+  - iceberg-orders
   - liquidity
-  - liquidity pockets
-  - market mechanics
-  - market structure
-  - order book
-  - Pareto efficiency
-  - price discovery
-  - reversion to mean
-  - secondary markets
-  - smart money
-  - stop runs
-  - trading psychology
+  - liquidity-pockets
+  - market-mechanics
+  - market-structure
+  - order-book
+  - pareto-efficiency
+  - price-discovery
+  - reversion-to-mean
+  - secondary-markets
+  - smart-money
+  - stop-runs
+  - trading-psychology
 
 canonical: https://sayedhfatimi.blog/2025/08/16/the-depths-of-the-market-understanding-liquidity-and-the-order-book/
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Considering the Shift of the Overton Window"
 pubDate: 2025-10-01T23:40:29Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   The Overton Window isn’t a fixed pane but a living frame that shapes what a society can see, say, and imagine. Tracing its shifts reveals our collective identity—and our responsibility within it.
 cover: ./cover.png

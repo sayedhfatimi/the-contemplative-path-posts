@@ -1,7 +1,7 @@
 ---
 title: 'The Universal Dichotomies: How Chaos Gives Birth to Order'
 pubDate: 2025-05-08T03:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   In this post, we explore the fascinating interplay between chaos and order, showing how the
   conservation of information, entropy, and the rise of complexity shape both the universe and human
@@ -19,21 +19,21 @@ categories:
   - religion-and-spirituality
   - science-and-technology
 tags:
-  - black holes
+  - black-holes
   - complexity
-  - Consciousness
-  - conservation of information
+  - consciousness
+  - conservation-of-information
   - cosmology
   - entropy
-  - holographic principle
-  - human evolution
-  - Knowledge
-  - order and chaos
-  - Philosophy of Science
-  - physics and philosophy
+  - holographic-principle
+  - human-evolution
+  - knowledge
+  - order-and-chaos
+  - philosophy-of-science
+  - physics-and-philosophy
   - reasoning
   - thermodynamics
-  - universal dichotomies
+  - universal-dichotomies
 
 canonical: https://sayedhfatimi.blog/2025/05/08/the-universal-dichotomies-how-chaos-gives-birth-to-order/
 ---

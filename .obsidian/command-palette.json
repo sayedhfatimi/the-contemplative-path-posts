@@ -2,6 +2,8 @@
   "pinned": [
     "quickadd:choice:41a9881c-9e16-4439-a35b-0affbce67365",
     "obsidian-linter:lint-file",
-    "obsidian-linter:lint-all-files"
+    "obsidian-linter:lint-all-files",
+    "quickadd:choice:0bf7df2f-3bd7-4297-ba4f-b480210b016e",
+    "quickadd:choice:6defeb22-5e10-4167-abe5-f64b38e84fd4"
   ]
 }

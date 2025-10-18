@@ -1,7 +1,7 @@
 ---
 title: 'The Hidden Hand of the Market: Understanding Market Makers and Inventory Risk'
 pubDate: 2025-08-18T20:12:18Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Market makers are often described as neutral referees — silent guardians of liquidity. But
   neutrality is an illusion. This essay explores spreads, inventory balancing, OTC desks, adverse
@@ -19,32 +19,32 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - adverse selection
-  - bid ask
-  - capital markets
-  - dark pools
-  - delta hedging
+  - adverse-selection
+  - bid-ask
+  - capital-markets
+  - dark-pools
+  - delta-hedging
   - derivatives
-  - financial architecture
-  - financial markets
+  - financial-architecture
+  - financial-markets
   - hedging
-  - hidden hand
-  - information asymmetry
-  - inventory risk
+  - hidden-hand
+  - information-asymmetry
+  - inventory-risk
   - liquidity
-  - market depth
-  - market makers
-  - market manipulation
-  - market structure
+  - market-depth
+  - market-makers
+  - market-manipulation
+  - market-structure
   - options
-  - order flow
-  - otc desks
-  - philosophy of markets
-  - price discovery
+  - order-flow
+  - otc-desks
+  - philosophy-of-markets
+  - price-discovery
   - spreads
-  - systemic risk
-  - trading psychology
-  - vested interest
+  - systemic-risk
+  - trading-psychology
+  - vested-interest
   - volatility
 
 canonical: https://sayedhfatimi.blog/2025/08/18/the-hidden-hand-of-the-market-understanding-market-makers-and-inventory-risk/

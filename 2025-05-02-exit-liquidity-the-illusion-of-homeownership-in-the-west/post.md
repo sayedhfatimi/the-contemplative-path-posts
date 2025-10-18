@@ -1,7 +1,7 @@
 ---
 title: 'Exit Liquidity: The Illusion of Homeownership in the West'
 pubDate: 2025-05-02T19:41:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   For decades, homeownership has been sold as the ultimate symbol of success — but behind the glossy
   promises, today’s housing market reveals a harsher truth. As prices soar and wages stagnate, the
@@ -17,31 +17,31 @@ categories:
   - philosophy
   - sociology-and-politics
 tags:
-  - affordability crisis
-  - Australia housing
-  - Canada housing
-  - economic trends
-  - exit liquidity
-  - financial markets
-  - Gen Z
+  - affordability-crisis
+  - australia-housing
+  - canada-housing
+  - economic-trends
+  - exit-liquidity
+  - financial-markets
+  - gen-z
   - homeownership
-  - housing affordability
-  - housing bubble
-  - housing demand
-  - housing market
-  - housing policy
-  - housing supply
+  - housing-affordability
+  - housing-bubble
+  - housing-demand
+  - housing-market
+  - housing-policy
+  - housing-supply
   - millennials
-  - mortgage rates
-  - property market
-  - real estate
-  - rent crisis
-  - speculative markets
-  - UK housing
-  - urban living
-  - US housing
-  - wealth inequality
-  - Western economies
+  - mortgage-rates
+  - property-market
+  - real-estate
+  - rent-crisis
+  - speculative-markets
+  - uk-housing
+  - urban-living
+  - us-housing
+  - wealth-inequality
+  - western-economies
 
 canonical: https://sayedhfatimi.blog/2025/05/02/exit-liquidity-the-illusion-of-homeownership-in-the-west/
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Purpose of Sleep: Repair, Renewal, and the Nightly Choreography of the Body'
 pubDate: 2025-09-22T00:30:49Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Sleep isn’t passive—it’s nightly maintenance. Slow-wave and REM rebuild muscle and connective
   tissue, balance hormones, and flush daytime metabolic waste via the glymphatic system to restore
@@ -17,34 +17,34 @@ categories:
 tags:
   - adenosine
   - astrocytes
-  - brain fog
-  - cardiovascular health
-  - cerebrospinal fluid
-  - circadian rhythm
-  - GABA
-  - glymphatic system
-  - growth hormone
-  - immune system
-  - insulin sensitivity
+  - brain-fog
+  - cardiovascular-health
+  - cerebrospinal-fluid
+  - circadian-rhythm
+  - gaba
+  - glymphatic-system
+  - growth-hormone
+  - immune-system
+  - insulin-sensitivity
   - melatonin
-  - memory consolidation
-  - metabolic health
-  - muscle recovery
+  - memory-consolidation
+  - metabolic-health
+  - muscle-recovery
   - naps
-  - neurodegeneration risk
+  - neurodegeneration-risk
   - neurotransmission
   - orexin
-  - REM sleep
+  - rem-sleep
   - sleep
-  - sleep architecture
-  - sleep debt
-  - sleep deprivation
-  - sleep inertia
-  - sleep pressure
-  - slow-wave sleep
-  - synaptic plasticity
-  - tissue repair
-  - toxin clearance
+  - sleep-architecture
+  - sleep-debt
+  - sleep-deprivation
+  - sleep-inertia
+  - sleep-pressure
+  - slow-wave-sleep
+  - synaptic-plasticity
+  - tissue-repair
+  - toxin-clearance
 
 canonical: https://sayedhfatimi.blog/2025/09/22/the-purpose-of-sleep-repair-renewal-and-the-nightly-choreography-of-the-body/
 ---

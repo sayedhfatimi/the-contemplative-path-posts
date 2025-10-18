@@ -1,7 +1,7 @@
 ---
 title: 'The Eight Axioms of Reason: A Framework for Thinking in a Fractured World'
 pubDate: 2025-04-10T09:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   In an age of accelerating complexity and digital noise, reason can feel both urgent and elusive.
   We live in a world that talks constantly—yet thinks rarely. A world obsessed with being right, but
@@ -15,25 +15,25 @@ categories:
   - philosophy
 tags:
   - axiom
-  - cognitive science
-  - Critical Thinking
-  - Descartes
-  - Emotion
-  - Epistemology
+  - cognitive-science
+  - critical-thinking
+  - descartes
+  - emotion
+  - epistemology
   - ethics
-  - Gödel
-  - holistic reasoning
+  - godel
+  - holistic-reasoning
   - integration
-  - Intuition
-  - Jung
+  - intuition
+  - jung
   - logic
-  - Metaphysics
+  - metaphysics
   - mindfulness
-  - Nietzsche
-  - Philosophy
-  - Reason
-  - Spirituality
-  - Wittgenstein
+  - nietzsche
+  - philosophy
+  - reason
+  - spirituality
+  - wittgenstein
 
 canonical: https://sayedhfatimi.blog/2025/04/10/the-eight-axioms-of-reason-a-framework-for-thinking-in-a-fractured-world/
 ---

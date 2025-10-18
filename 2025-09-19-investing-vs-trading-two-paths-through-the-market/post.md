@@ -1,7 +1,7 @@
 ---
 title: 'Investing vs. Trading: Two Paths Through the Market'
 pubDate: 2025-09-19T16:21:04Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Investing and trading aren’t opposites so much as different relationships to time. This guide
   clarifies frames—from scalping to position trading—and argues that most edge is born in ranges,
@@ -16,69 +16,69 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - “always up” effect
+  - always-up-effect
   - accumulation
-  - asset allocation
+  - asset-allocation
   - backtesting
   - breakouts
-  - capital preservation
+  - capital-preservation
   - compounding
-  - compounding returns
+  - compounding-returns
   - confirmation
   - conviction
-  - day trading
+  - day-trading
   - discipline
   - distribution
   - diversification
   - drawdowns
-  - edge development
+  - edge-development
   - execution
   - expectancy
-  - false breakouts
+  - false-breakouts
   - fomo
   - fundamentals
-  - funding rates
+  - funding-rates
   - horizons
-  - index funds
+  - index-funds
   - invalidation
   - investing
   - journaling
   - liquidity
-  - liquidity hunts
-  - long term investing
-  - macro cycles
-  - market makers
-  - market psychology
-  - market structure
-  - mean reversion
+  - liquidity-hunts
+  - long-term-investing
+  - macro-cycles
+  - market-makers
+  - market-psychology
+  - market-structure
+  - mean-reversion
   - microstructure
-  - order book
-  - order flow
-  - Patience
-  - portfolio construction
-  - position sizing
-  - position trading
-  - price action
-  - range trading
+  - order-book
+  - order-flow
+  - patience
+  - portfolio-construction
+  - position-sizing
+  - position-trading
+  - price-action
+  - range-trading
   - ranges
-  - revenge trading
-  - risk management
+  - revenge-trading
+  - risk-management
   - risk-to-reward
-  - SP 500
+  - sp-500
   - scalping
-  - short-term trading
+  - short-term-trading
   - slippage
   - spreads
-  - stop runs
-  - support and resistance
-  - swing highs and lows
-  - swing trading
-  - technical analysis
+  - stop-runs
+  - support-and-resistance
+  - swing-highs-and-lows
+  - swing-trading
+  - technical-analysis
   - timeframes
-  - trader psychology
+  - trader-psychology
   - trading
-  - trading costs
-  - trend following
+  - trading-costs
+  - trend-following
   - volatility
   - wyckoff
 canonical: https://sayedhfatimi.blog/2025/09/19/investing-vs-trading-two-paths-through-the-market/

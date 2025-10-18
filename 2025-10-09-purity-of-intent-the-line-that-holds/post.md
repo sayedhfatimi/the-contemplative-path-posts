@@ -1,7 +1,7 @@
 ---
 title: "Purity of Intent: The Line That Holds"
 pubDate: 2025-10-09T17:47:00Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Intention is the unseen vector of action. This essay explores how motive shapes
   judgment, why outcomes alone mislead, and the daily practices—proportion,

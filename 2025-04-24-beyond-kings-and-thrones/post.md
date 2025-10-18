@@ -1,7 +1,7 @@
 ---
 title: Beyond Kings and Thrones
 pubDate: 2025-04-24T02:25:51Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Power Without a Face The world today is not ruled by kings, but that doesn’t mean it is free from
   kingship. Power has simply changed costumes. It has abandoned thrones for terminals, and decrees
@@ -16,22 +16,22 @@ categories:
   - philosophy
   - sociology-and-politics
 tags:
-  - algorithmic control
-  - ambient power
-  - Beyond Kings and Thrones
-  - collapse of institutions
-  - contemporary philosophy
-  - cultural commentary
-  - digital governance
-  - invisible authority
-  - modern power structures
-  - narrative and power
-  - political thought
+  - algorithmic-control
+  - ambient-power
+  - beyond-kings-and-thrones
+  - collapse-of-institutions
+  - contemporary-philosophy
+  - cultural-commentary
+  - digital-governance
+  - invisible-authority
+  - modern-power-structures
+  - narrative-and-power
+  - political-thought
   - power
-  - Sayed Hamid Fatimi
-  - social critique
-  - systems of control
-  - the philosophy of power
+  - sayed-hamid-fatimi
+  - social-critique
+  - systems-of-control
+  - the-philosophy-of-power
 
 canonical: https://sayedhfatimi.blog/2025/04/24/beyond-kings-and-thrones/
 ---

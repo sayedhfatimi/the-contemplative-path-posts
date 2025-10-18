@@ -1,7 +1,7 @@
 ---
 title: Three Vessels for a Working Life
 pubDate: 2025-08-11T06:20:13Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Most people are taught to work for money, but not to make it work for them. For new investors with
   modest means, building wealth is less about chasing quick wins and more about choosing the right
@@ -16,21 +16,21 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - beginner investing
-  - building wealth
-  - financial independence
-  - financial literacy
-  - index funds
-  - investing basics
-  - investment strategies
-  - long term investing
-  - low income investing
-  - market psychology
-  - money market funds
-  - mutual funds
-  - personal finance
-  - portfolio building
-  - SP 500
+  - beginner-investing
+  - building-wealth
+  - financial-independence
+  - financial-literacy
+  - index-funds
+  - investing-basics
+  - investment-strategies
+  - long-term-investing
+  - low-income-investing
+  - market-psychology
+  - money-market-funds
+  - mutual-funds
+  - personal-finance
+  - portfolio-building
+  - sp-500
 
 canonical: https://sayedhfatimi.blog/2025/08/11/three-vessels-for-a-working-life/
 ---

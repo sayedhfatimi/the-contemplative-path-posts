@@ -1,7 +1,7 @@
 ---
 title: Reflections on Humility
 pubDate: 2025-06-12T21:48:54Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   A reflection on the tension between humility and hidden power—this piece explores the quiet
   strength of being underestimated, the dangers of overconfidence, and the subtle warfare of
@@ -16,18 +16,18 @@ categories:
   - philosophy
   - religion-and-spirituality
 tags:
-  - Ego
+  - ego
   - humility
   - identity
   - influence
   - introspection
-  - Machiavelli
+  - machiavelli
   - overconfidence
   - perception
-  - personal growth
-  - Philosophy
+  - personal-growth
+  - philosophy
   - power
-  - self awareness
+  - self-awareness
   - silence
   - societal-structure
   - strategy

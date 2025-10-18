@@ -1,7 +1,7 @@
 ---
 title: "Living With Filters: Perception, Color, and Belief"
 pubDate: 2025-10-04T00:44:00Z
-updatedDate: 2025-10-16T10:42:52Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Perception is not raw reality but a construction shaped by biology, memory, and belief. 
   From the science of color to the mysteries of synesthesia, this essay explores how 

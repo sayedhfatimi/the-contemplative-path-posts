@@ -1,7 +1,7 @@
 ---
 title: 'The Canyon Between Ideals and Reality: Manmade Morality, Ethics, and the Machinery of Order'
 pubDate: 2025-05-07T10:47:02Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   There is a vast and often invisible canyon between the ethical ideals we claim to uphold and the
   lived reality of power, law, and social order. This post explores how our morals, ethics, and
@@ -17,21 +17,21 @@ categories:
   - literature
   - philosophy
 tags:
-  - Critical Thinking
-  - ethical resistance
+  - critical-thinking
+  - ethical-resistance
   - ethics
-  - individual conscience
+  - individual-conscience
   - justice
-  - law and order
+  - law-and-order
   - morality
-  - overton window
-  - Philosophy
-  - political theory
-  - power structures
-  - social critique
-  - societal norms
-  - systemic injustice
-  - truth and power
+  - overton-window
+  - philosophy
+  - political-theory
+  - power-structures
+  - social-critique
+  - societal-norms
+  - systemic-injustice
+  - truth-and-power
 
 canonical: https://sayedhfatimi.blog/2025/05/07/the-canyon-between-ideals-and-reality-manmade-morality-ethics-and-the-machinery-of-order/
 ---

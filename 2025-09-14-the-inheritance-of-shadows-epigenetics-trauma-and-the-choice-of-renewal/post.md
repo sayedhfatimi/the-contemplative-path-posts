@@ -1,7 +1,7 @@
 ---
 title: 'The Inheritance of Shadows: Epigenetics, Trauma, and the Choice of Renewal'
 pubDate: 2025-09-14T07:00:16Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Epigenetics shows that we inherit more than DNA—we carry the echoes of our ancestors’ trauma,
   hunger, and resilience written into our biology. These epigenetic marks, passed across two to
@@ -17,26 +17,26 @@ categories:
   - mind-and-psychology
   - science-and-technology
 tags:
-  - ancestral trauma
-  - biology of trauma
-  - DNA methylation
-  - epigenetic markers
+  - ancestral-trauma
+  - biology-of-trauma
+  - dna-methylation
+  - epigenetic-markers
   - epigenetics
-  - famine and obesity
-  - genetic memory
-  - healing inheritance
-  - histone modification
-  - human genetics
-  - inherited stress
-  - intergenerational healing
-  - intergenerational trauma
-  - legacy and renewal
-  - psychology and genetics
+  - famine-and-obesity
+  - genetic-memory
+  - healing-inheritance
+  - histone-modification
+  - human-genetics
+  - inherited-stress
+  - intergenerational-healing
+  - intergenerational-trauma
+  - legacy-and-renewal
+  - psychology-and-genetics
   - resilience
-  - stress and genetics
-  - transgenerational inheritance
-  - trauma inheritance
-  - trauma recovery
+  - stress-and-genetics
+  - transgenerational-inheritance
+  - trauma-inheritance
+  - trauma-recovery
 
 canonical: https://sayedhfatimi.blog/2025/09/14/the-inheritance-of-shadows-epigenetics-trauma-and-the-choice-of-renewal/
 ---

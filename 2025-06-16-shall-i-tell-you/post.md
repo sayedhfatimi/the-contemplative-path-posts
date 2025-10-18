@@ -1,7 +1,7 @@
 ---
 title: Shall I Tell You
 pubDate: 2025-06-16T11:00:10Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: |
   “Shall I tell you how the justice I sought began seeking me too—
   As if reality bent its will in the face of tears dropped in silence?”
@@ -13,25 +13,25 @@ categories:
   - literature
 tags:
   - betrayal
-  - dark poetry
-  - emotional writing
-  - family trauma
-  - free verse
+  - dark-poetry
+  - emotional-writing
+  - family-trauma
+  - free-verse
   - grief
   - healing
   - heartbreak
   - loss
   - love
-  - personal growth
+  - personal-growth
   - poetry
-  - raw emotion
+  - raw-emotion
   - reckoning
   - revenge
   - secrets
-  - self discovery
+  - self-discovery
   - spoken-word
   - survivor
-  - Truth
+  - truth
 
 canonical: https://sayedhfatimi.blog/2025/06/16/shall-i-tell-you/
 ---

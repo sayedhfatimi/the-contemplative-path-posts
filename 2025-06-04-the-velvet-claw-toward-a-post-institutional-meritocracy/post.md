@@ -1,7 +1,7 @@
 ---
 title: 'The Velvet Claw: Toward a Post-Institutional Meritocracy'
 pubDate: 2025-06-04T07:33:47Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   The claw of power may never vanish. But if wrapped in velvet—wielded with wisdom, chosen with
   care—it may no longer wound, but shape. A better world doesn’t begin by abolishing power, but by
@@ -15,21 +15,21 @@ categories:
   - sociology-and-politics
   - philosophy
 tags:
-  - AI ethics
-  - algorithmic governance
+  - ai-ethics
+  - algorithmic-governance
   - decentralization
   - governance
   - leadership
-  - Machiavelli
-  - Maya Angelou
+  - machiavelli
+  - maya-angelou
   - meritocracy
-  - Philosophy
-  - political AI
+  - philosophy
+  - political-ai
   - post-democracy
   - post-institutionalism
   - power
-  - societal evolution
-  - systemic reform
+  - societal-evolution
+  - systemic-reform
 
 canonical: https://sayedhfatimi.blog/2025/06/04/the-velvet-claw-toward-a-post-institutional-meritocracy/
 ---

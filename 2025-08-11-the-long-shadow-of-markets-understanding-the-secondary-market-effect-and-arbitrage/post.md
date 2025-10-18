@@ -1,7 +1,7 @@
 ---
 title: 'The Long Shadow of Markets: Understanding the Secondary Market Effect and Arbitrage'
 pubDate: 2025-08-11T19:00:36Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Prices can change in seconds, but consequences can take decades to arrive. The secondary market
   effect and arbitrage reveal why — and how short-term gains often mask long-term costs. From
@@ -21,20 +21,20 @@ categories:
   - sociology-and-politics
 tags:
   - arbitrage
-  - currency policy
+  - currency-policy
   - decision-making
-  - delayed consequences
-  - economic history
-  - financial cycles
-  - global markets
-  - high frequency trading
-  - long term investing
+  - delayed-consequences
+  - economic-history
+  - financial-cycles
+  - global-markets
+  - high-frequency-trading
+  - long-term-investing
   - macroeconomics
-  - market inefficiency
-  - political economy
-  - politics and economics
-  - real estate cycles
-  - secondary market effect
+  - market-inefficiency
+  - political-economy
+  - politics-and-economics
+  - real-estate-cycles
+  - secondary-market-effect
 
 canonical: https://sayedhfatimi.blog/2025/08/11/the-long-shadow-of-markets-understanding-the-secondary-market-effect-and-arbitrage/
 ---

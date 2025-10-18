@@ -1,7 +1,7 @@
 ---
 title: 'A Small Edge, Carefully Kept — and How It Connects to “Trading Big Bags”'
 pubDate: 2025-09-18T01:28:55Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Back when BitMEX paid maker rebates, I turned ~$30 into ~$2,000 by posting passive liquidity and
   guarding inventory. This post breaks down the rebate math, spread capture, and kill-switches—and
@@ -15,21 +15,21 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - adverse selection
-  - architecture of risk
-  - BitMEX
-  - crypto microstructure
-  - funding rates
-  - inventory risk
-  - inverse perpetuals
-  - liquidity provision
-  - maker rebates
-  - market making
-  - post-only orders
-  - risk management
-  - spread capture
-  - trading big bags
-  - trading edge
+  - adverse-selection
+  - architecture-of-risk
+  - bitmex
+  - crypto-microstructure
+  - funding-rates
+  - inventory-risk
+  - inverse-perpetuals
+  - liquidity-provision
+  - maker-rebates
+  - market-making
+  - post-only-orders
+  - risk-management
+  - spread-capture
+  - trading-big-bags
+  - trading-edge
 canonical: https://sayedhfatimi.blog/2025/09/18/a-small-edge-carefully-kept-and-how-it-connects-to-trading-big-bags/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'The Philosophy of Markets: Money, Truth, and the Future of Finance'
 pubDate: 2025-04-14T09:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Sayed Hamid Fatimi's "The Philosophy of Markets" challenges conventional views on trading,
   suggesting that markets are not neutral but adversarial systems that exploit predictability and
@@ -18,26 +18,26 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - Belief Systems
-  - Bitcoin
+  - belief-systems
+  - bitcoin
   - crypto
-  - DAOs
+  - daos
   - decentralization
-  - emotional trading
-  - financial markets
-  - financial philosophy
-  - financial systems
-  - game theory
-  - investor mindset
+  - emotional-trading
+  - financial-markets
+  - financial-philosophy
+  - financial-systems
+  - game-theory
+  - investor-mindset
   - liquidity
-  - market design
-  - market manipulation
-  - market psychology
-  - market structure
-  - price action
+  - market-design
+  - market-manipulation
+  - market-psychology
+  - market-structure
+  - price-action
   - reflexivity
-  - smart money
-  - trading behavior
+  - smart-money
+  - trading-behavior
 
 canonical: https://sayedhfatimi.blog/2025/04/14/the-philosophy-of-markets-money-truth-and-the-future-of-finance/
 ---

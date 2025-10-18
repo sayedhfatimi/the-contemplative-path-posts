@@ -1,7 +1,7 @@
 ---
 title: 'Why Most Must Lose: The Market and the Pareto Trap'
 pubDate: 2025-05-16T18:10:56Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Most traders enter the market chasing fairness and opportunity—but beneath the surface lies a
   harsh statistical truth: the structure itself demands imbalance. This blog post explores how the
@@ -15,21 +15,21 @@ categories:
   - economy-and-finance
   - philosophy
 tags:
-  - economic systems
-  - financial inequality
-  - financial markets
-  - institutional advantage
-  - market philosophy
-  - market structure
+  - economic-systems
+  - financial-inequality
+  - financial-markets
+  - institutional-advantage
+  - market-philosophy
+  - market-structure
   - markets
-  - pareto distribution
-  - pareto principle
-  - power law
-  - retail traders
-  - systemic imbalance
-  - trading psychology
-  - wealth concentration
-  - zero sum game
+  - pareto-distribution
+  - pareto-principle
+  - power-law
+  - retail-traders
+  - systemic-imbalance
+  - trading-psychology
+  - wealth-concentration
+  - zero-sum-game
 
 canonical: https://sayedhfatimi.blog/2025/05/16/why-most-must-lose-the-market-and-the-pareto-trap/
 ---

@@ -1,7 +1,7 @@
 ---
 title: The Taming of the Inner Monologue
 pubDate: 2025-04-25T08:36:46Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   “The most powerful voice you will ever hear is the one no one else can.” The Unseen Engine Every
   human being walks the world with a voice echoing silently in their mind, a narrator unseen, yet
@@ -17,20 +17,20 @@ categories:
   - religion-and-spirituality
 tags:
   - clarity
-  - cognitive control
-  - Consciousness
-  - emotional intelligence
-  - inner monologue
-  - internal voice
+  - cognitive-control
+  - consciousness
+  - emotional-intelligence
+  - inner-monologue
+  - internal-voice
   - legacy
-  - mental clarity
+  - mental-clarity
   - mindset
-  - personal development
-  - Philosophy
-  - psychological sovereignty
-  - self awareness
-  - self mastery
-  - thought discipline
+  - personal-development
+  - philosophy
+  - psychological-sovereignty
+  - self-awareness
+  - self-mastery
+  - thought-discipline
 
 canonical: https://sayedhfatimi.blog/2025/04/25/the-taming-of-the-inner-monologue/
 ---

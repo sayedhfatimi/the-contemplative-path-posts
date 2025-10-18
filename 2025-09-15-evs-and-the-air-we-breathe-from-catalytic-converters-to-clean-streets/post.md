@@ -1,7 +1,7 @@
 ---
 title: 'EVs and the Air We Breathe: From Catalytic Converters to Clean Streets'
 pubDate: 2025-09-15T10:43:25Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   EVs are often criticised for their manufacturing footprint, but this misses the crucial point:
   they have no tailpipes. In cities like London, where millions of ICE cars exhale poison daily, EVs
@@ -17,19 +17,19 @@ categories:
   - economy-and-finance
   - science-and-technology
 tags:
-  - air pollution
-  - catalytic converters
-  - clean energy
-  - climate change
-  - electric vehicles
+  - air-pollution
+  - catalytic-converters
+  - clean-energy
+  - climate-change
+  - electric-vehicles
   - emissions
-  - EVs
-  - green technology
-  - London
+  - evs
+  - green-technology
+  - london
   - sustainability
   - transition
-  - transport policy
-  - urban health
+  - transport-policy
+  - urban-health
 
 canonical: https://sayedhfatimi.blog/2025/09/15/evs-and-the-air-we-breathe-from-catalytic-converters-to-clean-streets/
 ---

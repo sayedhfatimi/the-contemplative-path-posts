@@ -1,7 +1,7 @@
 ---
 title: 'The Prison of Choice: Why Freedom Overwhelms Us'
 pubDate: 2025-05-22T01:42:49Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Too many choices can feel like freedom—but often, they become a hidden burden. In a world of
   endless possibilities, we find ourselves overwhelmed, paralyzed, and longing for direction. This
@@ -20,16 +20,16 @@ tags:
   - autonomy
   - choice
   - commitment
-  - decision fatigue
+  - decision-fatigue
   - existentialism
   - freedom
   - identity
   - meaning
-  - mental health
-  - modern society
-  - paradox of choice
-  - personal growth
-  - Philosophy
+  - mental-health
+  - modern-society
+  - paradox-of-choice
+  - personal-growth
+  - philosophy
   - psychology
   - selfhood
 

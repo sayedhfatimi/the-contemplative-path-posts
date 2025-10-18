@@ -1,7 +1,7 @@
 ---
 title: 'The Market’s Blindfold: Understanding Dark Pools, Hidden Venues, and Information Asymmetry'
 pubDate: 2025-08-19T09:16:35Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   The Understanding Market Mechanics series closes with the blindfold — the final veil that hides as
   much as it reveals. Markets are not neutral or transparent, but choreographed theatres of
@@ -22,23 +22,23 @@ categories:
 tags:
   - asymmetry
   - blindfold
-  - dark pools
-  - engineered liquidity
-  - financial theatre
-  - hidden venues
-  - information asymmetry
+  - dark-pools
+  - engineered-liquidity
+  - financial-theatre
+  - hidden-venues
+  - information-asymmetry
   - internalization
   - liquidity
-  - market makers
-  - market mechanics
-  - market structure
-  - order flow
-  - payment for order flow
-  - philosophy of markets
-  - price discovery
-  - systemic inequality
-  - transparency illusion
-  - wealth distribution
+  - market-makers
+  - market-mechanics
+  - market-structure
+  - order-flow
+  - payment-for-order-flow
+  - philosophy-of-markets
+  - price-discovery
+  - systemic-inequality
+  - transparency-illusion
+  - wealth-distribution
 
 canonical: https://sayedhfatimi.blog/2025/08/19/the-markets-blindfold-understanding-dark-pools-hidden-venues-and-information-asymmetry/
 ---

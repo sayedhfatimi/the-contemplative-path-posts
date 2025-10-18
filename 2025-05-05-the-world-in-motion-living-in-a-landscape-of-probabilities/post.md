@@ -1,7 +1,7 @@
 ---
 title: 'The World in Motion: Living in a Landscape of Probabilities'
 pubDate: 2025-05-05T03:00:00Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   We live in a world not of certainties, but of probabilities — a world where every choice opens a
   branching path of possible futures. This post explores how seeing life as a dynamic, statistical
@@ -16,26 +16,26 @@ categories:
   - literature
   - philosophy
 tags:
-  - chaos theory
+  - chaos-theory
   - choice
   - complexity
   - crossroads
   - decision-making
   - determinism
-  - dynamic systems
+  - dynamic-systems
   - existentialism
   - fragility
-  - free will
+  - free-will
   - future
   - mathematics
   - paths
-  - Philosophy
+  - philosophy
   - possibility
   - probability
   - randomness
-  - systems thinking
+  - systems-thinking
   - uncertainty
-  - uncertainty principle
+  - uncertainty-principle
 
 canonical: https://sayedhfatimi.blog/2025/05/05/the-world-in-motion-living-in-a-landscape-of-probabilities/
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'The Skyborne Fortress: NuScale SMRs and the Future of Airborne Carriers'
 pubDate: 2025-09-21T10:10:27Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   NuScale’s small modular reactors promise more than clean, modular power on the ground—they hint at
   a future of airborne carriers the size of stadiums, loitering in the skies for months at a time.
@@ -15,22 +15,22 @@ categories:
   - science-and-technology
   - philosophy
 tags:
-  - airborne aircraft carrier
-  - distributed propulsion
-  - endurance technology
-  - floating fortress
-  - future of energy
-  - future warfare
-  - hybrid airship
-  - modular power
-  - nuclear aviation
-  - nuclear innovation
-  - nuclear propulsion
-  - NuScale Power
-  - philosophy of technology
-  - small modular reactors
-  - SMR technology
-  - strategic deterrence
+  - airborne-aircraft-carrier
+  - distributed-propulsion
+  - endurance-technology
+  - floating-fortress
+  - future-of-energy
+  - future-warfare
+  - hybrid-airship
+  - modular-power
+  - nuclear-aviation
+  - nuclear-innovation
+  - nuclear-propulsion
+  - nuscale-power
+  - philosophy-of-technology
+  - small-modular-reactors
+  - smr-technology
+  - strategic-deterrence
 
 canonical: https://sayedhfatimi.blog/2025/09/21/the-skyborne-fortress-nuscale-smrs-and-the-future-of-airborne-carriers/
 ---

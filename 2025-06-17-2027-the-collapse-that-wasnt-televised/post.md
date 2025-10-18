@@ -1,7 +1,7 @@
 ---
 title: '2027: The Collapse That Wasn’t Televised'
 pubDate: 2025-06-17T22:29:41Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   The Israeli state may not survive the decade — not by invasion, but by the slow collapse of
   legitimacy, narrative, and power. As Palestine rises and the world rebalances, we are not
@@ -14,16 +14,16 @@ categories:
   - philosophy
   - sociology-and-politics
 tags:
-  - "2027"
+  - 2027
   - collapse
-  - decolonial future
-  - eastern nations
+  - decolonial-future
+  - eastern-nations
   - geopolitics
   - illusion
   - israel
   - legitimacy
   - palestine
-  - post-western world
+  - post-western-world
   - power
   - sovereignty
 

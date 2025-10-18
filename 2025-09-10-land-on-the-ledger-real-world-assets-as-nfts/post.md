@@ -1,7 +1,7 @@
 ---
 title: 'Land on the Ledger: Real-World Assets as NFTs'
 pubDate: 2025-09-10T18:03:48Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Ownership is more than paperwork. This proposal maps land titles to NFTs so the blockchain becomes
   the registry itself—legally recognized, programmable, and auditable—uniting code and courts for
@@ -18,27 +18,27 @@ categories:
   - sociology-and-politics
   - economy-and-finance
 tags:
-  - Blockchain
-  - Compliance
-  - Conveyancing
-  - Digital Identity
-  - eIDAS
-  - EU Regulation
-  - GovTech
-  - Ideas &and; Opportunities
-  - Land Registry
-  - LegalTech
-  - NFTs
-  - On-Chain Settlement
-  - Open Data
-  - Property Title
-  - Public Infrastructure
-  - Real-World Assets
-  - Smart Contracts
-  - Stablecoins
-  - Tokenization
-  - UK Property
-  - Verifiable Credentials
+  - blockchain
+  - compliance
+  - conveyancing
+  - digital-identity
+  - eidas
+  - eu-regulation
+  - govtech
+  - ideas-and-and-opportunities
+  - land-registry
+  - legaltech
+  - nfts
+  - on-chain-settlement
+  - open-data
+  - property-title
+  - public-infrastructure
+  - real-world-assets
+  - smart-contracts
+  - stablecoins
+  - tokenization
+  - uk-property
+  - verifiable-credentials
 
 canonical: https://sayedhfatimi.blog/2025/09/10/land-on-the-ledger-real-world-assets-as-nfts/
 ---

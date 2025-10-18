@@ -1,7 +1,7 @@
 ---
 title: 'The Sweller Load: Rethinking Human Learning Efficiency in the Age of AI'
 pubDate: 2025-04-29T16:56:34Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   Cognitive Load Theory changed how we understand learning — but what if we could push it even
   further? Introducing the “Sweller Load,” a new framework for dynamically optimizing how
@@ -19,21 +19,21 @@ categories:
   - mind-and-psychology
   - philosophy
 tags:
-  - Adaptive Learning
-  - AI and Education
-  - AI in Education
-  - Cognitive Load Theory
-  - cognitive science
-  - Educational Psychology
-  - Human Memory
-  - John Sweller
-  - Knowledge Engineering
-  - Learning Efficiency
-  - Learning Optimization
-  - Personalized Learning
-  - Schema Building
-  - Sweller Load
-  - Working Memory
+  - adaptive-learning
+  - ai-and-education
+  - ai-in-education
+  - cognitive-load-theory
+  - cognitive-science
+  - educational-psychology
+  - human-memory
+  - john-sweller
+  - knowledge-engineering
+  - learning-efficiency
+  - learning-optimization
+  - personalized-learning
+  - schema-building
+  - sweller-load
+  - working-memory
 
 canonical: https://sayedhfatimi.blog/2025/04/29/the-sweller-load-rethinking-human-learning-efficiency-in-the-age-of-ai/
 ---

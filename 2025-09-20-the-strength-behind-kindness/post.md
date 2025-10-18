@@ -1,7 +1,7 @@
 ---
 title: The Strength Behind Kindness
 pubDate: 2025-09-20T13:01:35Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Kindness is not weakness or naïveté. It is strength forged through suffering, the power to harm
   restrained, the beauty of choice made again and again. Unlike niceness, which avoids conflict,
@@ -19,12 +19,12 @@ tags:
   - choice
   - compassion
   - essay
-  - jordan peterson
+  - jordan-peterson
   - kindness
   - mercy
   - morality
-  - niceness vs kindness
-  - Philosophy
+  - niceness-vs-kindness
+  - philosophy
   - restraint
   - strength
   - suffering

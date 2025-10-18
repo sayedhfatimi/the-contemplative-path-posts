@@ -1,7 +1,7 @@
 ---
 title: 'Traffic Blocks, Self-Driving Cars, and the Case for Road Beacons'
 pubDate: 2025-08-25T21:49:17Z
-updatedDate: 2025-10-16T10:42:53Z
+updatedDate: 2025-10-18T18:06:07Z
 excerpt: >-
   Traffic is not random—it is the product of inflow and outflow. When more cars enter a road segment
   than leave it, congestion forms. What lingers, however, is not just the incident itself but the
@@ -18,19 +18,19 @@ series:
 categories:
   - science-and-technology
 tags:
-  - autonomous vehicles
+  - autonomous-vehicles
   - congestion
-  - future of transport
+  - future-of-transport
   - mobility
-  - road infrastructure
-  - self driving cars
-  - smart motorways
-  - traffic beacons
-  - traffic blocks
-  - traffic flow
-  - transportation technology
+  - road-infrastructure
+  - self-driving-cars
+  - smart-motorways
+  - traffic-beacons
+  - traffic-blocks
+  - traffic-flow
+  - transportation-technology
   - v2x
-  - vehicle to vehicle communication
+  - vehicle-to-vehicle-communication
 
 canonical: https://sayedhfatimi.blog/2025/08/25/traffic-blocks-self-driving-cars-and-the-case-for-road-beacons/
 ---

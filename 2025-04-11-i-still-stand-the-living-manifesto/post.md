@@ -1,7 +1,7 @@
 ---
 title: I Still Stand; The Living Manifesto
 pubDate: 2025-04-11T04:27:55Z
-updatedDate: 2025-10-16T10:42:54Z
+updatedDate: 2025-10-18T18:06:08Z
 excerpt: >-
   A deeply personal reflection on betrayal, survival, and the unseen hand of Allah. Through hardship
   and hidden enemies, this piece explores the limits of human planning and the boundless reach of
@@ -15,26 +15,26 @@ categories:
   - mind-and-psychology
   - literature
 tags:
-  - "Allah's Decree"
-  - Ash-Shahid
+  - allah-s-decree
+  - ash-shahid
   - betrayal
-  - Divine Justice
-  - Divine Will
-  - Faith
-  - Hidden Enemies
-  - Injustice
-  - Islamic Reflection
-  - Mercy of Allah
-  - Patience
-  - Power of Prayer
-  - Quranic Wisdom
-  - Redemption
+  - divine-justice
+  - divine-will
+  - faith
+  - hidden-enemies
+  - injustice
+  - islamic-reflection
+  - mercy-of-allah
+  - patience
+  - power-of-prayer
+  - quranic-wisdom
+  - redemption
   - resilience
-  - Spiritual Trials
-  - Survival Through Faith
-  - Tawakkul
-  - Test of Faith
-  - Trust in Allah
+  - spiritual-trials
+  - survival-through-faith
+  - tawakkul
+  - test-of-faith
+  - trust-in-allah
 
 canonical: https://sayedhfatimi.blog/2025/04/11/i-still-stand-the-living-manifesto/
 ---
